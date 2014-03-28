@@ -1,0 +1,34 @@
+{
+    "name"       : "LetsFuMouAPI",
+    "description": "The FuMou Public Hearing's Data API",
+    "version"    : "0.0.1",
+    "contributor": [
+        {
+            "name" : "Lee",
+            "email": "jessy1092@gmail.com"
+        }
+    ],
+    "bugs": {
+        "mail": "jessy1092@gmail.com",
+        "url" : "https://github.com/g0v/LetsFuMouAPI/issues"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "engines":{
+        "node": "0.10.x"
+    },
+    "dependencies": {
+        "express"    : "3.4.x",
+        "hackpad"    : "0.0.3",
+        "htmlparser2": "3.4.x",
+        "mongodb"    : "0.9.x"
+    },
+    "repository": [
+        {
+            "type": "git",
+            "url" : "https://github.com/g0v/LetsFuMouAPI"
+        }
+    ],
+    "license": "MIT"
+}
