@@ -1,19 +1,25 @@
 var express = require('express');
+var fs      = require('fs');
+var PHJson  = require('./doc/publichearing.json');
 
-var config    = require('./lib/config');
-// var loader    = require('./lib/loader');
-// var dbClient  = require('./lib/db');
 var app = express();
 
 var v = '1.0';
-var period = 1000 * 60 * 60;  // 1hr
 
+// console.log(PHData);
 
-// setInterval(function () {
-//    loader.run();
-//     tagloader.run();
+// var PHJson = JSON.parse(PHData);
 
-// }, period);
+for (var i = PHJson.length - 1; i >= 0; i--) {
+    for (var j = PHJson[i].data.length - 1; j >= 0; j--) {
+        var fileName = PHJson[i].data[j].content;
+        if (fs.existsSync('./doc/' + fileName)) {
+            var content = fs.readFileSync('./doc/' + fileName, 'utf8');
+            PHJson[i].data[j].content = content;
+        }
+    };
+};
+
 
 app.all('/*', function (req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
@@ -21,8 +27,8 @@ app.all('/*', function (req, res, next) {
     next();
 });
 
-app.get('/api/' + v + '/example', function (req, res) {
-    res.send(config.example);
+app.get('/api/' + v + '/all', function (req, res) {
+    res.send(PHJson);
 });
 
 var port = Number(process.env.PORT || 5000);
