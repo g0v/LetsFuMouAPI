@@ -1,6 +1,12 @@
 [
     {
-        "hearingName": "2013-07-31_「海峽兩岸服務貿易協議」第一場公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第一場公聽會",
+        "hearingProfession": [
+            "貿易協定",
+            "市場管理",
+            "就業輔導",
+            "大陸政策"
+        ],
         "date": "7/31/2013",
         "data": [
             {
@@ -8,150 +14,138 @@
                 "title": "中原大學財經法律學系副教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=mJpVwXDZmIA",
-                "textFileName": "0101.txt",
-                "txt": ""
+                "content": "0101.txt"
             },
             {
                 "speaker": "范良棟",
                 "title": "中華民國工商協進會秘書長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=uV6gR7RJC2E",
-                "textFileName": "0102.txt",
-                "txt": ""
+                "content": "0102.txt"
             },
             {
                 "speaker": "吳中書",
                 "title": "中華經濟研究院院長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=KjJi5VNR0D0",
-                "textFileName": "0103.txt",
-                "txt": ""
+                "content": "0103.txt"
             },
             {
                 "speaker": "王榮璋",
                 "title": "中華民國殘障聯盟秘書長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=vYrt0fkf2vs",
-                "textFileName": "0104.txt",
-                "txt": ""
+                "content": "0104.txt"
             },
             {
                 "speaker": "龐建國",
                 "title": "文化大學中山學術研究所教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=lpAckxmod-I",
-                "textFileName": "0105.txt",
-                "txt": ""
+                "content": "0105.txt"
             },
             {
                 "speaker": "鄭秀玲",
                 "title": "台灣大學經濟學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=Eqgm2LCOrkQ",
-                "textFileName": "0106.txt",
-                "txt": ""
+                "content": "0106.txt"
             },
             {
                 "speaker": "張平沼",
                 "title": "中華民國全國商業總會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=4eVIgx06uZg",
-                "textFileName": "0107.txt",
-                "txt": ""
+                "content": "0107.txt"
             },
             {
                 "speaker": "張天立",
                 "title": "讀冊生活網路書店",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=_c_kUdusTrc",
-                "textFileName": "0108.txt",
-                "txt": ""
+                "content": "0108.txt"
             },
             {
                 "speaker": "姚大光",
                 "title": "中華民國旅行商業同業公會全國聯合會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=SYEU9WAkvXk",
-                "textFileName": "0109.txt",
-                "txt": ""
+                "content": "0109.txt"
             },
             {
                 "speaker": "李述德",
                 "title": "台灣證券交易所董事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=o4l1DJKAaNo",
-                "textFileName": "0110.txt",
-                "txt": ""
+                "content": "0110.txt"
             },
             {
                 "speaker": "賴中強",
                 "title": "兩岸協議監督聯盟召集人",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=w9uv_ZaQ5N8",
-                "textFileName": "0111.txt",
-                "txt": ""
+                "content": "0111.txt"
             },
             {
                 "speaker": "黃天麟",
                 "title": "前國策顧問",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=H9rQ7TDHgFc",
-                "textFileName": "0112.txt",
-                "txt": ""
+                "content": "0112.txt"
             },
             {
                 "speaker": "董立文",
                 "title": "中央警察大學公共安全學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=UR43N-0McH0",
-                "textFileName": "0113.txt",
-                "txt": ""
+                "content": "0113.txt"
             },
             {
                 "speaker": "滕西華",
                 "title": "民間監督健保聯盟發言人",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=lT3SWy31pQE",
-                "textFileName": "0114.txt",
-                "txt": ""
+                "content": "0114.txt"
             },
             {
                 "speaker": "王郁琦",
                 "title": "陸委會主任委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=60fbhJQjtpU",
-                "textFileName": "0115.txt",
-                "txt": ""
+                "content": "0115.txt"
             },
             {
                 "speaker": "張家祝",
                 "title": "經濟部部長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=MEz0b2d4GUI",
-                "textFileName": "0116.txt",
-                "txt": ""
+                "content": "0116.txt"
             },
             {
                 "speaker": "許銘能",
                 "title": "衛福部次長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=RYWFCx7WNsI",
-                "textFileName": "0117.txt",
-                "txt": ""
+                "content": "0117.txt"
             },
             {
                 "speaker": "林中森",
                 "title": "海基會董事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=nE-8QOXBehY",
-                "textFileName": "0118.txt",
-                "txt": ""
+                "content": "0118.txt"
             }
         ],
         "index": "1"
     },
     {
-        "hearingName": "2013-07-31_「海峽兩岸服務貿易協議」第二場公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第二場公聽會",
+        "hearingProfession": [
+            "貿易協定",
+            "市場管理",
+            "就業輔導",
+            "大陸政策"
+        ],
         "date": "7/31/2013",
         "data": [
             {
@@ -159,126 +153,117 @@
                 "title": "成功大學政治學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=SMGiBEAg8iU",
-                "textFileName": "0201.txt",
-                "txt": ""
+                "content": "0201.txt"
             },
             {
                 "speaker": "吳明敏",
                 "title": "中興大學應用經濟系與開南大學行銷系榮譽講座",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=cg7m7qEBnas",
-                "textFileName": "0202.txt",
-                "txt": ""
+                "content": "0202.txt"
             },
             {
                 "speaker": "林建甫",
                 "title": "台灣大學經濟學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=5pYkKUa76uo",
-                "textFileName": "0203.txt",
-                "txt": ""
+                "content": "0203.txt"
             },
             {
                 "speaker": "陳昭如",
                 "title": "婦女新知基金會董事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=xfgbAeKD2jQ",
-                "textFileName": "0204.txt",
-                "txt": ""
+                "content": "0204.txt"
             },
             {
                 "speaker": "蔡宏明",
                 "title": "中華民國全國工業總會副秘書長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=OILy3hP_nIs",
-                "textFileName": "0205.txt",
-                "txt": ""
+                "content": "0205.txt"
             },
             {
                 "speaker": "呂忠津",
                 "title": "清華大學電機學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=xE6dTZVF02k",
-                "textFileName": "0206.txt",
-                "txt": ""
+                "content": "0206.txt"
             },
             {
                 "speaker": "羅懷家",
                 "title": "台灣區電機電子工業同業公會副秘書長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=AguPYNZ3ZBM",
-                "textFileName": "0207.txt",
-                "txt": ""
+                "content": "0207.txt"
             },
             {
                 "speaker": "郝明義",
                 "title": "大塊文化出版公司與前國策顧問董事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=4Gj36xNW76M",
-                "textFileName": "0208.txt",
-                "txt": ""
+                "content": "0208.txt"
             },
             {
                 "speaker": "尹啟銘",
                 "title": "中華大學企業管理學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=tMuqnecTY3I",
-                "textFileName": "0209.txt",
-                "txt": ""
+                "content": "0209.txt"
             },
             {
                 "speaker": "顏子欽",
                 "title": "台灣服務業聯盟協會常務理事",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=IYaIw-hW-Z0",
-                "textFileName": "0210.txt",
-                "txt": ""
+                "content": "0210.txt"
             },
             {
                 "speaker": "張烽益",
                 "title": "臺灣勞動與社會政策研究協會執行長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=oEypZUm82OI",
-                "textFileName": "0211.txt",
-                "txt": ""
+                "content": "0211.txt"
             },
             {
                 "speaker": "黃文榮",
                 "title": "中華民國對外貿易發展協會秘書長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=HjAR2yN0kCQ",
-                "textFileName": "0212.txt",
-                "txt": ""
+                "content": "0212.txt"
             },
             {
                 "speaker": "王郁琦",
                 "title": "陸委會主任委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=zwuDvVw7o8E",
-                "textFileName": "0213.txt",
-                "txt": ""
+                "content": "0213.txt"
             },
             {
                 "speaker": "張家祝",
                 "title": "經濟部部長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=rAvhaiZTCO8",
-                "textFileName": "0214.txt",
-                "txt": ""
+                "content": "0214.txt"
             },
             {
                 "speaker": "許貴森",
                 "title": "農委會畜牧處處長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=Jx9ojJR5vZg",
-                "textFileName": "0215.txt",
-                "txt": ""
+                "content": "0215.txt"
             }
         ],
         "index": "2"
     },
     {
-        "hearingName": "2013-08-01_「海峽兩岸服務貿易協議」第三場公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第三場公聽會",
+        "hearingProfession": [
+            "貿易協定",
+            "市場管理",
+            "就業輔導",
+            "大陸政策"
+        ],
         "date": "8/1/2013",
         "data": [
             {
@@ -286,222 +271,201 @@
                 "title": "興台彩色印刷股份有限公司董事長",
                 "profession": "印刷業",
                 "youtubeLink": "https://www.youtube.com/watch?v=UhrrrOSnfQM",
-                "textFileName": "0301.txt",
-                "txt": ""
+                "content": "0301.txt"
             },
             {
                 "speaker": "林偉峰",
                 "title": "臺灣長期照顧發展協會全國聯合會榮譽理事長",
                 "profession": "照護業",
                 "youtubeLink": "https://www.youtube.com/watch?v=TyH0A6AxY0k",
-                "textFileName": "0302.txt",
-                "txt": ""
+                "content": "0302.txt"
             },
             {
                 "speaker": "高為邦",
                 "title": "投資中國受害者協會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=yDFq4v3-e_M",
-                "textFileName": "0303.txt",
-                "txt": ""
+                "content": "0303.txt"
             },
             {
                 "speaker": "廖尚文",
                 "title": "中華無店面商務發展協會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=9sRMDcPu5bc",
-                "textFileName": "0304.txt",
-                "txt": ""
+                "content": "0304.txt"
             },
             {
                 "speaker": "黃適卓",
                 "title": "開南大學副校長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=WOcvp0_FVoU",
-                "textFileName": "0305.txt",
-                "txt": ""
+                "content": "0305.txt"
             },
             {
                 "speaker": "莊太平",
                 "title": "中華民國證卷商業同會公會秘書長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=noln4DrLmeo",
-                "textFileName": "0306.txt",
-                "txt": ""
+                "content": "0306.txt"
             },
             {
                 "speaker": "吳榮杰",
                 "title": "臺灣大學農業經濟學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=lAXwqsLdBfw",
-                "textFileName": "0307.txt",
-                "txt": ""
+                "content": "0307.txt"
             },
             {
                 "speaker": "蔡志宏",
                 "title": "臺灣大學電機學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=J_2bMZZuU04",
-                "textFileName": "0308.txt",
-                "txt": ""
+                "content": "0308.txt"
             },
             {
                 "speaker": "陳俐甫",
                 "title": "真理大學人文暨資訊學系助理教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=LhpWZOzMwVQ",
-                "textFileName": "0309.txt",
-                "txt": ""
+                "content": "0309.txt"
             },
             {
                 "speaker": "邱俊榮",
                 "title": "中央大學經濟學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=pd-jvljzd3s",
-                "textFileName": "0310.txt",
-                "txt": ""
+                "content": "0310.txt"
             },
             {
                 "speaker": "徐斯儉",
                 "title": "中央研究院政治學研究所副研究員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=7KY6dpQdsjA",
-                "textFileName": "0311.txt",
-                "txt": ""
+                "content": "0311.txt"
             },
             {
                 "speaker": "王鳳生",
                 "title": "高雄大學應用經濟學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=Jd_KddyhpBk",
-                "textFileName": "0312.txt",
-                "txt": ""
+                "content": "0312.txt"
             },
             {
                 "speaker": "陳耀祥",
                 "title": "臺北大學公共行政暨政策學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=iaKursDhzrQ",
-                "textFileName": "0313.txt",
-                "txt": ""
+                "content": "0313.txt"
             },
             {
                 "speaker": "王健全",
                 "title": "中華經濟研究院副院長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=LyR8CwtakmU",
-                "textFileName": "0314.txt",
-                "txt": ""
+                "content": "0314.txt"
             },
             {
                 "speaker": "王郁琦",
                 "title": "陸委會主任",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=fNPF39qM6D8",
-                "textFileName": "0315.txt",
-                "txt": ""
+                "content": "0315.txt"
             },
             {
                 "speaker": "張家祝",
                 "title": "經濟部部長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=yNrzTBuA3qA",
-                "textFileName": "0316.txt",
-                "txt": ""
+                "content": "0316.txt"
             },
             {
                 "speaker": "林中森",
                 "title": "海基會董事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=HjLundSJbuE",
-                "textFileName": "0317.txt",
-                "txt": ""
+                "content": "0317.txt"
             },
             {
                 "speaker": "邱文達",
                 "title": "衛生福利部部長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=NQ02fE_JP38",
-                "textFileName": "0318.txt",
-                "txt": ""
+                "content": "0318.txt"
             },
             {
                 "speaker": "潘世偉",
                 "title": "勞委會主任委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=LWeS0kTDjI8",
-                "textFileName": "0319.txt",
-                "txt": ""
+                "content": "0319.txt"
             },
             {
                 "speaker": "王政騰",
                 "title": "農委會副主任委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=qYN3tD1spzU",
-                "textFileName": "0320.txt",
-                "txt": ""
+                "content": "0320.txt"
             },
             {
                 "speaker": "陳純敬",
                 "title": "交通部次長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=dDvsddvUknY",
-                "textFileName": "0321.txt",
-                "txt": ""
+                "content": "0321.txt"
             },
             {
                 "speaker": "黃碧端",
                 "title": "教育部次長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=eLZwQK3zy_I",
-                "textFileName": "0322.txt",
-                "txt": ""
+                "content": "0322.txt"
             },
             {
                 "speaker": "高為邦",
                 "title": "投資中國受害者協會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=fQuw-lMFqs8",
-                "textFileName": "0323.txt",
-                "txt": ""
+                "content": "0323.txt"
             },
             {
                 "speaker": "黃適卓",
                 "title": "開南大學副校長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=MJAEJ_nIf8Y",
-                "textFileName": "0324.txt",
-                "txt": ""
+                "content": "0324.txt"
             },
             {
                 "speaker": "林中森",
                 "title": "海基會董事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=ePpaoCQkbVo",
-                "textFileName": "0325.txt",
-                "txt": ""
+                "content": "0325.txt"
             },
             {
                 "speaker": "邱文彥",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=VK1h6rcx1pg",
-                "textFileName": "0326.txt",
-                "txt": ""
+                "content": "0326.txt"
             },
             {
                 "speaker": "第二輪發言",
                 "title": "",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0327.txt",
-                "txt": ""
+                "content": "0327.txt"
             }
         ],
         "index": "3"
     },
     {
-        "hearingName": "2013-08-01_「海峽兩岸服務貿易協議」第四場公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第四場公聽會",
+        "hearingProfession": [
+            "貿易協定",
+            "市場管理",
+            "就業輔導",
+            "大陸政策"
+        ],
         "date": "8/1/2013",
         "data": [
             {
@@ -509,150 +473,137 @@
                 "title": "中華民國航空貨運物集散站聯誼會總幹事",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=quh3HmCbTTg",
-                "textFileName": "0401.txt",
-                "txt": ""
+                "content": "0401.txt"
             },
             {
                 "speaker": "楊文通",
                 "title": "桃園縣燙髮美容職業工會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=apdi-bvG6A0",
-                "textFileName": "0402.txt",
-                "txt": ""
+                "content": "0402.txt"
             },
             {
                 "speaker": "姜皇池",
                 "title": "臺灣大學法律學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=k6EYIaqBfNI",
-                "textFileName": "0403.txt",
-                "txt": ""
+                "content": "0403.txt"
             },
             {
                 "speaker": "陳清庚",
                 "title": "新北市女子美容商業同業公會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=eYHVkIWKEvI",
-                "textFileName": "0404.txt",
-                "txt": ""
+                "content": "0404.txt"
             },
             {
                 "speaker": "韓仕賢",
                 "title": "全國金融業工會聯合會秘書長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=mgKOK4Wwm7s",
-                "textFileName": "0405.txt",
-                "txt": ""
+                "content": "0405.txt"
             },
             {
                 "speaker": "李嘉寅",
                 "title": "台北市旅行商業同業公會副理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=artsCJ0WnLk",
-                "textFileName": "0406.txt",
-                "txt": ""
+                "content": "0406.txt"
             },
             {
                 "speaker": "石曜堂",
                 "title": "台灣醫務管理學會名譽理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=KF7o7NSLn_Y",
-                "textFileName": "0407.txt",
-                "txt": ""
+                "content": "0407.txt"
             },
             {
                 "speaker": "王俊博",
                 "title": "智冠科技股份有限公司董事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=3jdAcYmat1w",
-                "textFileName": "0408.txt",
-                "txt": ""
+                "content": "0408.txt"
             },
             {
                 "speaker": "張五岳",
                 "title": "淡江大學中國大陸研究所所長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=BnfEG08UbfE",
-                "textFileName": "0409.txt",
-                "txt": ""
+                "content": "0409.txt"
             },
             {
                 "speaker": "李健鴻",
                 "title": "文化大學勞工關係學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=uJ2csrOJw8c",
-                "textFileName": "0410.txt",
-                "txt": ""
+                "content": "0410.txt"
             },
             {
                 "speaker": "王郁琦",
                 "title": "陸委會主任",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=8XBU7PelMl4",
-                "textFileName": "0411.txt",
-                "txt": ""
+                "content": "0411.txt"
             },
             {
                 "speaker": "張家祝",
                 "title": "經濟部部長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=33_EoASogVI",
-                "textFileName": "0412.txt",
-                "txt": ""
+                "content": "0412.txt"
             },
             {
                 "speaker": "郝鳳鳴",
                 "title": "勞委會副主任委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=zVHtnT4VZ4U",
-                "textFileName": "0413.txt",
-                "txt": ""
+                "content": "0413.txt"
             },
             {
                 "speaker": "陳純敬",
                 "title": "交通部次長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=r9wGq3l3gNY",
-                "textFileName": "0414.txt",
-                "txt": ""
+                "content": "0414.txt"
             },
             {
                 "speaker": "吳當傑",
                 "title": "金管會副主任委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=O4XKyIUiNAE",
-                "textFileName": "0415.txt",
-                "txt": ""
+                "content": "0415.txt"
             },
             {
                 "speaker": "姜皇池",
                 "title": "台灣大學法律系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=qt1Z6AjqQhg",
-                "textFileName": "0416.txt",
-                "txt": ""
+                "content": "0416.txt"
             },
             {
                 "speaker": "卓士昭",
                 "title": "經濟部次長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=r0LB_6-kQ0g",
-                "textFileName": "0417.txt",
-                "txt": ""
+                "content": "0417.txt"
             },
             {
                 "speaker": "第二輪發言",
                 "title": "",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=bZFpftalCUE",
-                "textFileName": "0418.txt",
-                "txt": ""
+                "content": "0418.txt"
             }
         ],
         "index": "4"
     },
     {
-        "hearingName": "2013-09-30_「海峽兩岸服務貿易協議」第一場加開公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第一場加開公聽會",
+        "hearingProfession": [
+            "貿易協定",
+            "運輸業",
+            "海運業"
+        ],
         "date": "9/30/2013",
         "data": [
             {
@@ -660,126 +611,116 @@
                 "title": "中央警察大學公共安全學系副教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=DqUS8YDEMWA",
-                "textFileName": "0501.txt",
-                "txt": ""
+                "content": "0501.txt"
             },
             {
                 "speaker": "黃瑞榮",
                 "title": "小客車租賃商業同業公會全國聯合會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=ucYzqbZvhgY",
-                "textFileName": "0502.txt",
-                "txt": ""
+                "content": "0502.txt"
             },
             {
                 "speaker": "吳順杰",
                 "title": "台北市小客車租賃商業同業公會全國聯合會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=qKGvQHDnhJY",
-                "textFileName": "0503.txt",
-                "txt": ""
+                "content": "0503.txt"
             },
             {
                 "speaker": "張國典",
                 "title": "中華民國汽車路線貨運商業同業公會全國聯合會協理",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=z0VawuOt9Iw",
-                "textFileName": "0504.txt",
-                "txt": ""
+                "content": "0504.txt"
             },
             {
                 "speaker": "梁淑娟",
                 "title": "全國產業總工會副理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=4bHeApbwAHk",
-                "textFileName": "0505.txt",
-                "txt": ""
+                "content": "0505.txt"
             },
             {
                 "speaker": "陳耀昌",
                 "title": "汽車路線貨運商業同業公會聯合會秘書長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=WGPfTC4yo8s",
-                "textFileName": "0506.txt",
-                "txt": ""
+                "content": "0506.txt"
             },
             {
                 "speaker": "陳武正",
                 "title": "開南大學觀光運輸學院院長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=wSLhvrg2yWY",
-                "textFileName": "0507.txt",
-                "txt": ""
+                "content": "0507.txt"
             },
             {
                 "speaker": "許崇文",
                 "title": "昇銓貨櫃運輸公司董事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=I8H5UvS4Ejs",
-                "textFileName": "0508.txt",
-                "txt": ""
+                "content": "0508.txt"
             },
             {
                 "speaker": "姚信宗",
                 "title": "桃園縣汽車貨櫃貨運商業同業公會總幹事",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=EpixVVWEVNA",
-                "textFileName": "0509.txt",
-                "txt": ""
+                "content": "0509.txt"
             },
             {
                 "speaker": "伍杜．米將",
                 "title": "台灣原住民族部落行動聯盟執行秘書",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=I2sqUTeEWhk",
-                "textFileName": "0510.txt",
-                "txt": ""
+                "content": "0510.txt"
             },
             {
                 "speaker": "王郁琦",
                 "title": "陸委會主任委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=ts_iSR2XmuI",
-                "textFileName": "0511.txt",
-                "txt": ""
+                "content": "0511.txt"
             },
             {
                 "speaker": "林中森",
                 "title": "海基會董事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=-vJsIan2X6Q",
-                "textFileName": "0512.txt",
-                "txt": ""
+                "content": "0512.txt"
             },
             {
                 "speaker": "范植谷",
                 "title": "交通部次長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=bcx4UOV3aZk",
-                "textFileName": "0513.txt",
-                "txt": ""
+                "content": "0513.txt"
             },
             {
                 "speaker": "葉津鈴",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=7ZXdNsVz_Fs",
-                "textFileName": "0514.txt",
-                "txt": ""
+                "content": "0514.txt"
             },
             {
                 "speaker": "第二輪發言",
                 "title": "",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0515.txt",
-                "txt": ""
+                "content": "0515.txt"
             }
         ],
         "index": "5"
     },
     {
-        "hearingName": "2013-09-30_「海峽兩岸服務貿易協議」第二場加開公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第二場加開公聽會",
+        "hearingProfession": [
+            "貿易協定",
+            "運輸業",
+            "海運業"
+        ],
         "date": "9/30/2013",
         "data": [
             {
@@ -787,198 +728,183 @@
                 "title": "中央大學經濟學系教授",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0601.txt",
-                "txt": ""
+                "content": "0601.txt"
             },
             {
                 "speaker": "孫義順",
                 "title": "貨櫃儲運事業協會理事",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0602.txt",
-                "txt": ""
+                "content": "0602.txt"
             },
             {
                 "speaker": "楊曜菖",
                 "title": "碼頭裝卸搬運職業工會聯合會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0603.txt",
-                "txt": ""
+                "content": "0603.txt"
             },
             {
                 "speaker": "邱榮和",
                 "title": "海洋大學航運管理學系助理教授",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0604.txt",
-                "txt": ""
+                "content": "0604.txt"
             },
             {
                 "speaker": "王武雄",
                 "title": "商港事業發展協會常務監事",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0605.txt",
-                "txt": ""
+                "content": "0605.txt"
             },
             {
                 "speaker": "楊其長",
                 "title": "台北市停車場商業同業公會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0606.txt",
-                "txt": ""
+                "content": "0606.txt"
             },
             {
                 "speaker": "黃仁安",
                 "title": "物流協會前理事長董事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0607.txt",
-                "txt": ""
+                "content": "0607.txt"
             },
             {
                 "speaker": "陳泳達",
                 "title": "倉儲服務業者總經理",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0608.txt",
-                "txt": ""
+                "content": "0608.txt"
             },
             {
                 "speaker": "蕭慶麟 / 高為邦",
                 "title": "中國經營停車場業者理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0609.txt",
-                "txt": ""
+                "content": "0609.txt"
             },
             {
                 "speaker": "李禮仲",
                 "title": "淡江大學財務金融學系副教授",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0610.txt",
-                "txt": ""
+                "content": "0610.txt"
             },
             {
                 "speaker": "曾俊鵬",
                 "title": "崴航集團董事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0611.txt",
-                "txt": ""
+                "content": "0611.txt"
             },
             {
                 "speaker": "王郁琦",
                 "title": "陸委會主任委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0612.txt",
-                "txt": ""
+                "content": "0612.txt"
             },
             {
                 "speaker": "林中森",
                 "title": "海基會董事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0613.txt",
-                "txt": ""
+                "content": "0613.txt"
             },
             {
                 "speaker": "卓士昭",
                 "title": "經濟部次長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0614.txt",
-                "txt": ""
+                "content": "0614.txt"
             },
             {
                 "speaker": "范植谷",
                 "title": "交通部次長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0615.txt",
-                "txt": ""
+                "content": "0615.txt"
             },
             {
                 "speaker": "陳其邁",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0616.txt",
-                "txt": ""
+                "content": "0616.txt"
             },
             {
                 "speaker": "葉津鈴",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0617.txt",
-                "txt": ""
+                "content": "0617.txt"
             },
             {
                 "speaker": "邱文彥",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0618.txt",
-                "txt": ""
+                "content": "0618.txt"
             },
             {
                 "speaker": "孫義順",
                 "title": "中華民國貨櫃儲運事業協會理事",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0619.txt",
-                "txt": ""
+                "content": "0619.txt"
             },
             {
                 "speaker": "高為邦",
                 "title": "台灣投資中國受害者協會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0620.txt",
-                "txt": ""
+                "content": "0620.txt"
             },
             {
                 "speaker": "黃仁安",
                 "title": "中華民國物流協會前理事長董事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0621.txt",
-                "txt": ""
+                "content": "0621.txt"
             },
             {
                 "speaker": "曾俊鵬",
                 "title": "崴航集團董事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0622.txt",
-                "txt": ""
+                "content": "0622.txt"
             },
             {
                 "speaker": "卓士昭",
                 "title": "經濟部次長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0623.txt",
-                "txt": ""
+                "content": "0623.txt"
             },
             {
                 "speaker": "第二輪發言",
                 "title": "",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0624.txt",
-                "txt": ""
+                "content": "0624.txt"
             }
         ],
         "index": "6"
     },
     {
-        "hearingName": "2013-10-02_「海峽兩岸服務貿易協議」第三場加開公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第三場加開公聽會",
+        "hearingProfession": [
+            "貿易協定",
+            "大陸政策",
+            "智慧財產權",
+            "醫療",
+            "文化",
+            "運動場",
+            "通訊"
+        ],
         "date": "10/2/2013",
         "data": [
             {
@@ -986,198 +912,183 @@
                 "title": "中華民國醫療器材商業同業公會全國聯合會常務理事",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=jPhH0_mmSbQ",
-                "textFileName": "0701.txt",
-                "txt": ""
+                "content": "0701.txt"
             },
             {
                 "speaker": "曾億郎",
                 "title": "高雄醫學大學附設中和紀念醫院院長秘書",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=rA6_9tor_IE",
-                "textFileName": "0702.txt",
-                "txt": ""
+                "content": "0702.txt"
             },
             {
                 "speaker": "郭正典",
                 "title": "台北榮總教學研究部醫學研究科主任",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=N5r8d7JFEaA",
-                "textFileName": "0703.txt",
-                "txt": ""
+                "content": "0703.txt"
             },
             {
                 "speaker": "黃文鴻",
                 "title": "陽明大學衛生福利研究所教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=eusY3kKZFeY",
-                "textFileName": "0704.txt",
-                "txt": ""
+                "content": "0704.txt"
             },
             {
                 "speaker": "曾修儀",
                 "title": "中華民國護理師護士公會全國聯合會秘書長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=BxsdzsK2iHA",
-                "textFileName": "0705.txt",
-                "txt": ""
+                "content": "0705.txt"
             },
             {
                 "speaker": "劉宗榮",
                 "title": "陽明大學環境與職業衛生研究所教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=XV0_XPcna2Y",
-                "textFileName": "0706.txt",
-                "txt": ""
+                "content": "0706.txt"
             },
             {
                 "speaker": "蘇柏熙",
                 "title": "台灣醫療勞動正義與病人安全促進聯盟理事",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=FBqdEKEwOBk",
-                "textFileName": "0707.txt",
-                "txt": ""
+                "content": "0707.txt"
             },
             {
                 "speaker": "蔡明忠",
                 "title": "中華民國醫師公會全國聯合會秘書長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=KlezpmALx8o",
-                "textFileName": "0708.txt",
-                "txt": ""
+                "content": "0708.txt"
             },
             {
                 "speaker": "柯文哲",
                 "title": "國立台灣大學醫學院附設醫院創傷醫學部主任教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=vV0-HWRZl80",
-                "textFileName": "0709.txt",
-                "txt": ""
+                "content": "0709.txt"
             },
             {
                 "speaker": "潘建志",
                 "title": "萬芳醫院主治醫師",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=nmXDPsw0i90",
-                "textFileName": "0710.txt",
-                "txt": ""
+                "content": "0710.txt"
             },
             {
                 "speaker": "林秉鴻",
                 "title": "台灣醫療勞動正義與病人安全促進聯盟副秘書長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=PbSOjhkyK20",
-                "textFileName": "0711.txt",
-                "txt": ""
+                "content": "0711.txt"
             },
             {
                 "speaker": "王郁琦",
                 "title": "陸委會主任委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0712.txt",
-                "txt": ""
+                "content": "0712.txt"
             },
             {
                 "speaker": "林中森",
                 "title": "海基會董事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0713.txt",
-                "txt": ""
+                "content": "0713.txt"
             },
             {
                 "speaker": "卓士昭",
                 "title": "經濟部次長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0714.txt",
-                "txt": ""
+                "content": "0714.txt"
             },
             {
                 "speaker": "許銘能",
                 "title": "衛生福利部次長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0715.txt",
-                "txt": ""
+                "content": "0715.txt"
             },
             {
                 "speaker": "段宜康",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0716.txt",
-                "txt": ""
+                "content": "0716.txt"
             },
             {
                 "speaker": "田秋瑾",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0717.txt",
-                "txt": ""
+                "content": "0717.txt"
             },
             {
                 "speaker": "陳超明",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0718.txt",
-                "txt": ""
+                "content": "0718.txt"
             },
             {
                 "speaker": "蘇清泉",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0719.txt",
-                "txt": ""
+                "content": "0719.txt"
             },
             {
                 "speaker": "林秉鴻",
                 "title": " 台灣區醫療勞動正義與病人安全促進聯盟副秘書長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0720.txt",
-                "txt": ""
+                "content": "0720.txt"
             },
             {
                 "speaker": "陳其邁",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0721.txt",
-                "txt": ""
+                "content": "0721.txt"
             },
             {
                 "speaker": "郭正典",
                 "title": "台北榮總教學研究部醫學研究科主任",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0722.txt",
-                "txt": ""
+                "content": "0722.txt"
             },
             {
                 "speaker": "潘建志",
                 "title": "萬芳醫院主治醫師",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0723.txt",
-                "txt": ""
+                "content": "0723.txt"
             },
             {
                 "speaker": "第二輪發言",
                 "title": "",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "0724.txt",
-                "txt": ""
+                "content": "0724.txt"
             }
         ],
         "index": "7"
     },
     {
-        "hearingName": "2013-10-02_「海峽兩岸服務貿易協議」第四場加開公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第四場加開公聽會",
+        "hearingProfession": [
+            "貿易協定",
+            "大陸政策",
+            "智慧財產權",
+            "醫療",
+            "文化",
+            "運動場",
+            "通訊"
+        ],
         "date": "10/2/2013",
         "data": [
             {
@@ -1185,118 +1096,111 @@
                 "title": "亞威運動休閒開發股份有限公司總經理",
                 "profession": "運動",
                 "youtubeLink": "https://www.youtube.com/watch?v=7cOL-Z2yWdM",
-                "textFileName": "0801.txt",
-                "txt": ""
+                "content": "0801.txt"
             },
             {
                 "speaker": "閻鴻亞",
                 "title": "導演",
                 "profession": "文化",
                 "youtubeLink": "https://www.youtube.com/watch?v=ElZN89uO2bc",
-                "textFileName": "0802.txt",
-                "txt": ""
+                "content": "0802.txt"
             },
             {
                 "speaker": "林志儫",
                 "title": "台北市體育運動教練職業公會理事",
                 "profession": "運動",
                 "youtubeLink": "https://www.youtube.com/watch?v=k3JNb1Z4qY4",
-                "textFileName": "0803.txt",
-                "txt": ""
+                "content": "0803.txt"
             },
             {
                 "speaker": "楊据煌",
                 "title": "台灣網際網路協會副總經理",
                 "profession": "網際網路",
                 "youtubeLink": "https://www.youtube.com/watch?v=asx2Ty--HTQ",
-                "textFileName": "0804.txt",
-                "txt": ""
+                "content": "0804.txt"
             },
             {
                 "speaker": "陳俊榮",
                 "title": "台北市影片商業同業公會理事長",
                 "profession": "文化",
                 "youtubeLink": "https://www.youtube.com/watch?v=Su2GDaOIgSg",
-                "textFileName": "0805.txt",
-                "txt": ""
+                "content": "0805.txt"
             },
             {
                 "speaker": "陳成業",
                 "title": "體育大學管理學院國際體育事務研究所副教授",
                 "profession": "運動",
                 "youtubeLink": "https://www.youtube.com/watch?v=B_rzlFvr5ZY",
-                "textFileName": "0806.txt",
-                "txt": ""
+                "content": "0806.txt"
             },
             {
                 "speaker": "林瑞霞",
                 "title": "桃山人文館館長",
                 "profession": "文化",
                 "youtubeLink": "https://www.youtube.com/watch?v=kCrG_s2jrbU",
-                "textFileName": "0807.txt",
-                "txt": ""
+                "content": "0807.txt"
             },
             {
                 "speaker": "楊芸蘋",
                 "title": "台北市電影戲劇業職業光會理事長",
                 "profession": "文化",
                 "youtubeLink": "https://www.youtube.com/watch?v=PSiENMbFbno",
-                "textFileName": "0808.txt",
-                "txt": ""
+                "content": "0808.txt"
             },
             {
                 "speaker": "林盈達",
                 "title": "交通大學資訊工程學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=kDeZZX26PKA",
-                "textFileName": "0809.txt",
-                "txt": ""
+                "content": "0809.txt"
             },
             {
                 "speaker": "王郁琦",
                 "title": "陸委會主任委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=QQUCKbRKPjo",
-                "textFileName": "0810.txt",
-                "txt": ""
+                "content": "0810.txt"
             },
             {
                 "speaker": "林中森",
                 "title": "海基會董事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=YxiFeyMHpiU",
-                "textFileName": "0811.txt",
-                "txt": ""
+                "content": "0811.txt"
             },
             {
                 "speaker": "卓士昭",
                 "title": "經濟部次長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=lI8ejSxFe24",
-                "textFileName": "0812.txt",
-                "txt": ""
+                "content": "0812.txt"
             },
             {
                 "speaker": "石世豪",
                 "title": "通傳會主任委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=p6AXcsrLekI",
-                "textFileName": "0813.txt",
-                "txt": ""
+                "content": "0813.txt"
             },
             {
                 "speaker": "第二輪發言",
                 "title": "",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=FjGkdsYlmC4",
-                "textFileName": "0814.txt",
-                "txt": ""
+                "content": "0814.txt"
             }
         ],
         "index": "8"
     },
     {
-        "hearingName": "2013-10-03_「海峽兩岸服務貿易協議」第五場加開公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第五場加開公聽會",
+        "hearingProfession": [
+            "貿易協定",
+            "金融機構",
+            "外國銀行",
+            "證券",
+            "期貨"
+        ],
         "date": "10/3/2013",
         "data": [
             {
@@ -1304,150 +1208,139 @@
                 "title": "台灣大學經濟系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=1wrv7d4arnY",
-                "textFileName": "0901.txt",
-                "txt": ""
+                "content": "0901.txt"
             },
             {
                 "speaker": "陳淮舟",
                 "title": "彰化銀行董事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=r31HuwLF2yQ",
-                "textFileName": "0902.txt",
-                "txt": ""
+                "content": "0902.txt"
             },
             {
                 "speaker": "汪國華",
                 "title": "國泰世華銀行高級顧問",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=_3q4Te9u2xI",
-                "textFileName": "0903.txt",
-                "txt": ""
+                "content": "0903.txt"
             },
             {
                 "speaker": "黃天麟",
                 "title": "前國策顧問",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=ZoE4bI8iGXg",
-                "textFileName": "0904.txt",
-                "txt": ""
+                "content": "0904.txt"
             },
             {
                 "speaker": "韓仕賢",
                 "title": "全國金融業工會聯合總會秘書長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=e2WSeIxvB4U",
-                "textFileName": "0905.txt",
-                "txt": ""
+                "content": "0905.txt"
             },
             {
                 "speaker": "吳惠林",
                 "title": "中華經濟研究院研究員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=Wp6Wot-Ghgo",
-                "textFileName": "0906.txt",
-                "txt": ""
+                "content": "0906.txt"
             },
             {
                 "speaker": "林建甫",
                 "title": "臺灣大學經濟系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=1qONvJBq3d0",
-                "textFileName": "0907.txt",
-                "txt": ""
+                "content": "0907.txt"
             },
             {
                 "speaker": "王郁琦",
                 "title": "陸委會主任委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=WFrzZIwYVOk",
-                "textFileName": "0908.txt",
-                "txt": ""
+                "content": "0908.txt"
             },
             {
                 "speaker": "卓士昭",
                 "title": "經濟部次長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=akIga4jrd2g",
-                "textFileName": "0909.txt",
-                "txt": ""
+                "content": "0909.txt"
             },
             {
                 "speaker": "黃天牧",
                 "title": "金管會副主任委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=0Q1VodFi_-k",
-                "textFileName": "0910.txt",
-                "txt": ""
+                "content": "0910.txt"
             },
             {
                 "speaker": "王塗發",
                 "title": "臺北大學經濟系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=iP9lHuYnUdE",
-                "textFileName": "0911.txt",
-                "txt": ""
+                "content": "0911.txt"
             },
             {
                 "speaker": "彭增田",
                 "title": "台商代表",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=YVHhQXYz1y4",
-                "textFileName": "0912.txt",
-                "txt": ""
+                "content": "0912.txt"
             },
             {
                 "speaker": "段宜康",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=0tgKca8z-HM",
-                "textFileName": "0913.txt",
-                "txt": ""
+                "content": "0913.txt"
             },
             {
                 "speaker": "黃文玲",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=_0nQRpONLFo",
-                "textFileName": "0914.txt",
-                "txt": ""
+                "content": "0914.txt"
             },
             {
                 "speaker": "田秋堇",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=YhOn8W5xpSs",
-                "textFileName": "0915.txt",
-                "txt": ""
+                "content": "0915.txt"
             },
             {
                 "speaker": "黃天牧",
                 "title": "金管會副主任委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=XE7OF20R2c4",
-                "textFileName": "0916.txt",
-                "txt": ""
+                "content": "0916.txt"
             },
             {
                 "speaker": "葉津鈴",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=n1hzrSybtgY",
-                "textFileName": "0917.txt",
-                "txt": ""
+                "content": "0917.txt"
             },
             {
                 "speaker": "第二輪發言",
                 "title": "",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=vvvJIGL2IGQ",
-                "textFileName": "0918.txt",
-                "txt": ""
+                "content": "0918.txt"
             }
         ],
         "index": "9"
     },
     {
-        "hearingName": "2013-10-03_「海峽兩岸服務貿易協議」第六場加開公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第六場加開公聽會",
+        "hearingProfession": [
+            "貿易協定",
+            "金融機構",
+            "外國銀行",
+            "證券",
+            "期貨"
+        ],
         "date": "10/3/2013",
         "data": [
             {
@@ -1455,269 +1348,249 @@
                 "title": "全國金融業工會聯合總會創會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=JAmQNDipFHU",
-                "textFileName": "1001.txt",
-                "txt": ""
+                "content": "1001.txt"
             },
             {
                 "speaker": "周行一",
                 "title": "政治大學財務管理學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=VlPEYwEYYqw",
-                "textFileName": "1002.txt",
-                "txt": ""
+                "content": "1002.txt"
             },
             {
                 "speaker": "林萬福",
                 "title": "全國金融業工會聯合總會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=bcgtq5EzWjM",
-                "textFileName": "1003.txt",
-                "txt": ""
+                "content": "1003.txt"
             },
             {
                 "speaker": "沈中華",
                 "title": "臺灣大學財務金融系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=34Gqth-8cVY",
-                "textFileName": "1004.txt",
-                "txt": ""
+                "content": "1004.txt"
             },
             {
                 "speaker": "莊太平",
                 "title": "中華民國證券商業同業公會祕書長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=vL-JS5OGe9c",
-                "textFileName": "1005.txt",
-                "txt": ""
+                "content": "1005.txt"
             },
             {
                 "speaker": "林弘立",
                 "title": "中華民國證券投資信託暨顧問商業同業公會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=v9sAFBMLjsk",
-                "textFileName": "1006.txt",
-                "txt": ""
+                "content": "1006.txt"
             },
             {
                 "speaker": "賀鳴珩",
                 "title": "中華民國期貨業商業同業公會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=j2D9fTOR9kM",
-                "textFileName": "1007.txt",
-                "txt": ""
+                "content": "1007.txt"
             },
             {
                 "speaker": "沈柏勝",
                 "title": "台商代表董事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=_Rvr5po67Ws",
-                "textFileName": "1008.txt",
-                "txt": ""
+                "content": "1008.txt"
             },
             {
                 "speaker": "鐘獻道",
                 "title": "台商代表董事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=4p2nc52aAbI",
-                "textFileName": "1009.txt",
-                "txt": ""
+                "content": "1009.txt"
             }
         ],
         "index": "10"
     },
     {
-        "hearingName": "2013-10-07_「海峽兩岸服務貿易協議」第七場加開公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第七場加開公聽會",
+        "hearingProfession": [
+            "旅遊業",
+            "空運",
+            "航運",
+            "貿易協定"
+        ],
         "date": "10/7/2013",
         "data": [
             {
                 "speaker": "董孝行",
                 "title": "中華航空公司企劃室副總經理",
-                "profession": "航空業",
+                "profession": "航空",
                 "youtubeLink": "",
-                "textFileName": "1101.txt",
-                "txt": ""
+                "content": "1101.txt"
             },
             {
                 "speaker": "廖至維",
                 "title": "長榮航空公司企劃室協理",
-                "profession": "航空業",
+                "profession": "航空",
                 "youtubeLink": "",
-                "textFileName": "1102.txt",
-                "txt": ""
+                "content": "1102.txt"
             },
             {
                 "speaker": "毛振飛",
                 "title": "桃園縣產業總工會顧問",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1103.txt",
-                "txt": ""
+                "content": "1103.txt"
             },
             {
                 "speaker": "楊雅隆",
                 "title": "台北市航空貨運商業同業公會主任秘書",
-                "profession": "空運業",
+                "profession": "空運",
                 "youtubeLink": "",
-                "textFileName": "1104.txt",
-                "txt": ""
+                "content": "1104.txt"
             },
             {
                 "speaker": "劉守恕",
                 "title": "台北市航空運輸商業同業公會秘書長",
-                "profession": "空運業",
+                "profession": "空運",
                 "youtubeLink": "",
-                "textFileName": "1105.txt",
-                "txt": ""
+                "content": "1105.txt"
             },
             {
                 "speaker": "黃錫聰",
                 "title": "閔達摩拖車有限公司副董事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1106.txt",
-                "txt": ""
+                "content": "1106.txt"
             },
             {
                 "speaker": "陳國勳",
                 "title": "桃勤工會理事",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1107.txt",
-                "txt": ""
+                "content": "1107.txt"
             },
             {
                 "speaker": "高為邦",
                 "title": "台灣投資中國受害者協會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1108.txt",
-                "txt": ""
+                "content": "1108.txt"
             },
             {
                 "speaker": "吳進發",
                 "title": "沛榮國際股份有限公司總經理",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1109.txt",
-                "txt": ""
+                "content": "1109.txt"
             },
             {
                 "speaker": "凌鳳儀",
                 "title": "中華科技大學航空服務管理系系主任",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1110.txt",
-                "txt": ""
+                "content": "1110.txt"
             },
             {
                 "speaker": "黃淑惠",
                 "title": "中華民國全國駕駛員職業總工會秘書長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1111.txt",
-                "txt": ""
+                "content": "1111.txt"
             },
             {
                 "speaker": "姚光祖",
                 "title": "桃園縣產業總工會秘書長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1112.txt",
-                "txt": ""
+                "content": "1112.txt"
             },
             {
                 "speaker": "陳峻涵",
                 "title": "五洋通運有限公司副總經理",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1113.txt",
-                "txt": ""
+                "content": "1113.txt"
             },
             {
                 "speaker": "林祖嘉",
                 "title": "五洋通運有限公司副總經理",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1114.txt",
-                "txt": ""
+                "content": "1114.txt"
             },
             {
                 "speaker": "林祖嘉",
                 "title": "陸委會副主任委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1115.txt",
-                "txt": ""
+                "content": "1115.txt"
             },
             {
                 "speaker": "高孔廉",
                 "title": "海基會副董事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1116.txt",
-                "txt": ""
+                "content": "1116.txt"
             },
             {
                 "speaker": "卓士昭",
                 "title": "經濟部次長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1117.txt",
-                "txt": ""
+                "content": "1117.txt"
             },
             {
                 "speaker": "范植谷",
                 "title": "交通部次長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1118.txt",
-                "txt": ""
+                "content": "1118.txt"
             },
             {
                 "speaker": "李俊俋",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1119.txt",
-                "txt": ""
+                "content": "1119.txt"
             },
             {
                 "speaker": "尤美女",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1120.txt",
-                "txt": ""
+                "content": "1120.txt"
             },
             {
                 "speaker": "許忠信",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1121.txt",
-                "txt": ""
+                "content": "1121.txt"
             },
             {
                 "speaker": "高為邦",
                 "title": "台灣投資中國受害者協會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1122.txt",
-                "txt": ""
+                "content": "1122.txt"
             },
             {
                 "speaker": "姚光祖",
                 "title": "桃園縣產業總工會秘書長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1123.txt",
-                "txt": ""
+                "content": "1123.txt"
             }
         ],
         "index": "11"
     },
     {
-        "hearingName": "2013-10-07_「海峽兩岸服務貿易協議」第八場加開公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第八場加開公聽會",
+        "hearingProfession": [
+            "旅遊業",
+            "空運",
+            "航運",
+            "貿易協定"
+        ],
         "date": "10/7/2013",
         "data": [
             {
@@ -1725,190 +1598,172 @@
                 "title": "中華民國遊覽車全國聯合會理事長",
                 "profession": "旅遊業",
                 "youtubeLink": "",
-                "textFileName": "1201.txt",
-                "txt": ""
+                "content": "1201.txt"
             },
             {
                 "speaker": "李吉田",
                 "title": "臺灣觀光遊樂區協會理事長",
                 "profession": "旅遊業",
                 "youtubeLink": "",
-                "textFileName": "1202.txt",
-                "txt": ""
+                "content": "1202.txt"
             },
             {
                 "speaker": "李奇嶽",
                 "title": "臺北城市大學觀光系教授",
                 "profession": "旅遊業",
                 "youtubeLink": "",
-                "textFileName": "1203.txt",
-                "txt": ""
+                "content": "1203.txt"
             },
             {
                 "speaker": "邱長光",
                 "title": "建國科技大學觀光系系主任",
                 "profession": "旅遊業",
                 "youtubeLink": "",
-                "textFileName": "1204.txt",
-                "txt": ""
+                "content": "1204.txt"
             },
             {
                 "speaker": "賀陳旦",
                 "title": "中華電信前董事長",
                 "profession": "旅遊業",
                 "youtubeLink": "",
-                "textFileName": "1205.txt",
-                "txt": ""
+                "content": "1205.txt"
             },
             {
                 "speaker": "陳慧慈",
                 "title": "花蓮縣觀光旅館商業同業公會理事長",
                 "profession": "旅遊業",
                 "youtubeLink": "",
-                "textFileName": "1206.txt",
-                "txt": ""
+                "content": "1206.txt"
             },
             {
                 "speaker": "馮正民",
                 "title": "交通大學運輸研究所教授",
                 "profession": "旅遊業",
                 "youtubeLink": "",
-                "textFileName": "1207.txt",
-                "txt": ""
+                "content": "1207.txt"
             },
             {
                 "speaker": "蔡家煌",
                 "title": "鴻毅旅行社負責人",
                 "profession": "旅遊業",
                 "youtubeLink": "",
-                "textFileName": "1208.txt",
-                "txt": ""
+                "content": "1208.txt"
             },
             {
                 "speaker": "陳俐甫",
                 "title": "真理大學教授",
                 "profession": "旅遊業",
                 "youtubeLink": "",
-                "textFileName": "1209.txt",
-                "txt": ""
+                "content": "1209.txt"
             },
             {
                 "speaker": "蕭嘉弘",
                 "title": "旅遊業從業人員先生",
                 "profession": "旅遊業",
                 "youtubeLink": "",
-                "textFileName": "1210.txt",
-                "txt": ""
+                "content": "1210.txt"
             },
             {
                 "speaker": "張清來",
                 "title": "冬山河香格里拉飯店董事長",
                 "profession": "旅遊業",
                 "youtubeLink": "",
-                "textFileName": "1211.txt",
-                "txt": ""
+                "content": "1211.txt"
             },
             {
                 "speaker": "王明仁",
                 "title": "台北市旅行工會召集人",
                 "profession": "旅遊業",
                 "youtubeLink": "",
-                "textFileName": "1212.txt",
-                "txt": ""
+                "content": "1212.txt"
             },
             {
                 "speaker": "姚大光",
                 "title": "中華民國旅行商業同業公會聯合會理事長",
                 "profession": "旅遊業",
                 "youtubeLink": "",
-                "textFileName": "1213.txt",
-                "txt": ""
+                "content": "1213.txt"
             },
             {
                 "speaker": "吳明敏",
                 "title": "開南大學行銷學系教授",
                 "profession": "旅遊業",
                 "youtubeLink": "",
-                "textFileName": "1214.txt",
-                "txt": ""
+                "content": "1214.txt"
             },
             {
                 "speaker": "林祖嘉",
                 "title": "行政院陸委會副主委",
                 "profession": "旅遊業",
                 "youtubeLink": "",
-                "textFileName": "1215.txt",
-                "txt": ""
+                "content": "1215.txt"
             },
             {
                 "speaker": "林中森",
                 "title": "海基會董事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1216.txt",
-                "txt": ""
+                "content": "1216.txt"
             },
             {
                 "speaker": "卓士昭",
                 "title": "經濟部長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1217.txt",
-                "txt": ""
+                "content": "1217.txt"
             },
             {
                 "speaker": "陳唐山",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1218.txt",
-                "txt": ""
+                "content": "1218.txt"
             },
             {
                 "speaker": "尤美女",
                 "title": "立法委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1219.txt",
-                "txt": ""
+                "content": "1219.txt"
             },
             {
                 "speaker": "賀陳旦",
                 "title": "中華電信前董事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1220.txt",
-                "txt": ""
+                "content": "1220.txt"
             },
             {
                 "speaker": "王明仁",
                 "title": "台北市旅行工會召集人",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1221.txt",
-                "txt": ""
+                "content": "1221.txt"
             },
             {
                 "speaker": "陳俐甫",
                 "title": "真理大學教授",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1222.txt",
-                "txt": ""
+                "content": "1222.txt"
             },
             {
                 "speaker": "第二輪發言",
                 "title": "",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1223.txt",
-                "txt": ""
+                "content": "1223.txt"
             }
         ],
         "index": "12"
     },
     {
-        "hearingName": "2013-10-24_「海峽兩岸服務貿易協議」第九場加開公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第九場加開公聽會",
+        "hearingProfession": [
+            "翻譯",
+            "理容業",
+            "管理顧問"
+        ],
         "date": "10/24/2013",
         "data": [
             {
@@ -1916,469 +1771,423 @@
                 "title": "財團法人中國生產力中心總經理",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1301.txt",
-                "txt": ""
+                "content": "1301.txt"
             },
             {
                 "speaker": "曲立全",
                 "title": "國立台北科技大學產學合作中心教授",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1302.txt",
-                "txt": ""
+                "content": "1302.txt"
             },
             {
                 "speaker": "鄭秀玲",
                 "title": "台灣大學經濟系主任",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1303.txt",
-                "txt": ""
+                "content": "1303.txt"
             },
             {
                 "speaker": "蔡芬英",
                 "title": "前瞻企業管理顧問股份有限公司董事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1304.txt",
-                "txt": ""
+                "content": "1304.txt"
             },
             {
                 "speaker": "黃孝文",
                 "title": "中華民國企業經營管理顧問協會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1305.txt",
-                "txt": ""
+                "content": "1305.txt"
             },
             {
                 "speaker": "孫友聯",
                 "title": "台灣勞工陣線祕書長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1306.txt",
-                "txt": ""
+                "content": "1306.txt"
             },
             {
                 "speaker": "王為模",
                 "title": "中華民國洗衣商業同業公會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1307.txt",
-                "txt": ""
+                "content": "1307.txt"
             },
             {
                 "speaker": "李淳",
                 "title": "中華經濟研究院WTO及RTA中心副執行長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1308.txt",
-                "txt": ""
+                "content": "1308.txt"
             },
             {
                 "speaker": "王嘉鋒",
                 "title": "快客國際股份有限公司執行長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1309.txt",
-                "txt": ""
+                "content": "1309.txt"
             },
             {
                 "speaker": "江偉君",
                 "title": "翻譯業者管理顧問",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1310.txt",
-                "txt": ""
+                "content": "1310.txt"
             },
             {
                 "speaker": "張裕隆",
                 "title": "台灣省洗衣商業同業公會聯合會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1311.txt",
-                "txt": ""
+                "content": "1311.txt"
             },
             {
                 "speaker": "吳崑玉",
                 "title": "大地企管顧問公司顧問師",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1312.txt",
-                "txt": ""
+                "content": "1312.txt"
             },
             {
                 "speaker": "徐立信",
                 "title": "台北市翻譯商業同業公會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1313.txt",
-                "txt": ""
+                "content": "1313.txt"
             },
             {
                 "speaker": "陳冠宇",
                 "title": "台灣守護民主平台秘書長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1314.txt",
-                "txt": ""
+                "content": "1314.txt"
             },
             {
                 "speaker": "賴中強",
                 "title": "民主陣線召集人",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1315.txt",
-                "txt": ""
+                "content": "1315.txt"
             },
             {
                 "speaker": "陳廷豪",
                 "title": "黑色島國青年陣線",
                 "profession": "整體產業",
                 "youtubeLink": "",
-                "textFileName": "1316.txt",
-                "txt": ""
+                "content": "1316.txt"
             },
             {
                 "speaker": "林實芳",
                 "title": "婦女新知基金會秘書長",
                 "profession": "美容美髮業",
                 "youtubeLink": "",
-                "textFileName": "1317.txt",
-                "txt": ""
+                "content": "1317.txt"
             },
             {
                 "speaker": "陳韋中",
                 "title": "新北市女子美容商業同業公會總幹事",
                 "profession": "美容業",
                 "youtubeLink": "",
-                "textFileName": "1318.txt",
-                "txt": ""
+                "content": "1318.txt"
             },
             {
                 "speaker": "楊鄧今華",
                 "title": "桃園縣美容美髮商業公會創會理事長",
                 "profession": "美容美髮業",
                 "youtubeLink": "",
-                "textFileName": "1319.txt",
-                "txt": ""
+                "content": "1319.txt"
             },
             {
                 "speaker": "許景然",
                 "title": "臺北市女子美容商業同業公會理事長",
                 "profession": "美容美髮業",
                 "youtubeLink": "",
-                "textFileName": "1320.txt",
-                "txt": ""
+                "content": "1320.txt"
             },
             {
                 "speaker": "葉大華",
                 "title": "臺灣少年權益與福利促進聯盟秘書長",
                 "profession": "美容美髮業",
                 "youtubeLink": "",
-                "textFileName": "1321.txt",
-                "txt": ""
+                "content": "1321.txt"
             },
             {
                 "speaker": "林芷伊",
                 "title": "美容業者",
                 "profession": "美容業",
                 "youtubeLink": "",
-                "textFileName": "1322.txt",
-                "txt": ""
+                "content": "1322.txt"
             },
             {
                 "speaker": "馮國扶",
                 "title": "萬象翻譯股份有限公司資深編輯",
                 "profession": "翻譯業",
                 "youtubeLink": "",
-                "textFileName": "1323.txt",
-                "txt": ""
+                "content": "1323.txt"
             },
             {
                 "speaker": "洪維劭",
                 "title": "翻譯業者老師",
                 "profession": "翻譯業",
                 "youtubeLink": "",
-                "textFileName": "1324.txt",
-                "txt": ""
+                "content": "1324.txt"
             },
             {
                 "speaker": "林維國",
                 "title": "輔仁大學傳播學院大眾傳播學位學程系主任",
                 "profession": "整體產業",
                 "youtubeLink": "",
-                "textFileName": "1325.txt",
-                "txt": ""
+                "content": "1325.txt"
             },
             {
                 "speaker": "黃光藝",
                 "title": "台灣製造產業大聯盟總召集人",
                 "profession": "製造業",
                 "youtubeLink": "",
-                "textFileName": "1326.txt",
-                "txt": ""
+                "content": "1326.txt"
             },
             {
                 "speaker": "張烽益",
                 "title": "台灣勞動與社會政策研究協會執行長",
                 "profession": "整體產業",
                 "youtubeLink": "",
-                "textFileName": "1327.txt",
-                "txt": ""
+                "content": "1327.txt"
             },
             {
                 "speaker": "黃國旗",
                 "title": "台灣省洗染業職業工會聯合會理事長",
                 "profession": "洗衣業",
                 "youtubeLink": "",
-                "textFileName": "1328.txt",
-                "txt": ""
+                "content": "1328.txt"
             },
             {
                 "speaker": "陳英玉",
                 "title": "中華民國髮藝美容造型技術指導員職業工會全國聯合會理事長",
                 "profession": "美容美髮業",
                 "youtubeLink": "",
-                "textFileName": "1329.txt",
-                "txt": ""
+                "content": "1329.txt"
             }
         ],
         "index": "13"
     },
     {
-        "hearingName": "2013-11-07_「海峽兩岸服務貿易協議」第十場加開公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第十場加開公聽會",
+        "hearingProfession": [
+            "資訊工業",
+            "租賃業",
+            "航空器"
+        ],
         "date": "11/7/2013",
         "data": [
             {
                 "speaker": "朱水文",
                 "title": "中華電信退休員工",
-                "profession": "資訊業",
+                "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1401.txt",
-                "txt": ""
+                "content": "1401.txt"
             },
             {
                 "speaker": "錢文南",
                 "title": "前番薯藤數位科技副總經理",
-                "profession": "資訊業",
+                "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1402.txt",
-                "txt": ""
+                "content": "1402.txt"
             },
             {
                 "speaker": "劉瑞隆",
                 "title": "中華民國資訊軟體協理事長",
-                "profession": "資訊業",
+                "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1403.txt",
-                "txt": ""
+                "content": "1403.txt"
             },
             {
                 "speaker": "邱文聰",
                 "title": "台灣人權促進會副會長",
-                "profession": "資訊業",
+                "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1404.txt",
-                "txt": ""
+                "content": "1404.txt"
             },
             {
                 "speaker": "莊豐嘉",
                 "title": "新頭殼",
-                "profession": "資訊業",
+                "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1405.txt",
-                "txt": ""
+                "content": "1405.txt"
             },
             {
                 "speaker": "朱浩",
                 "title": "財團法人商業發展研究副所長",
-                "profession": "資訊業",
+                "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1406.txt",
-                "txt": ""
+                "content": "1406.txt"
             },
             {
                 "speaker": "吳國維",
                 "title": "中華民國國家基本資訊基本建設產業發展協進執行長",
-                "profession": "資訊業",
+                "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1407.txt",
-                "txt": ""
+                "content": "1407.txt"
             },
             {
                 "speaker": "沈家弘",
                 "title": "電腦工程師",
-                "profession": "資訊業",
+                "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1408.txt",
-                "txt": ""
+                "content": "1408.txt"
             },
             {
                 "speaker": "劉宏煥",
                 "title": "消基會資通訊委員會召集先生",
                 "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1409.txt",
-                "txt": ""
+                "content": "1409.txt"
             },
             {
                 "speaker": "商台玉",
                 "title": "台灣數位文化協會理事長",
                 "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1410.txt",
-                "txt": ""
+                "content": "1410.txt"
             },
             {
                 "speaker": "蔡志鴻",
                 "title": "台灣工銀租賃股份有限公總經理",
                 "profession": "租賃業",
                 "youtubeLink": "",
-                "textFileName": "1411.txt",
-                "txt": ""
+                "content": "1411.txt"
             },
             {
                 "speaker": "許金龍",
                 "title": "樂陞科技股份有限公董事長",
                 "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1412.txt",
-                "txt": ""
+                "content": "1412.txt"
             },
             {
                 "speaker": "朱延平",
                 "title": "東海大學資訊工程系教授",
                 "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1413.txt",
-                "txt": ""
+                "content": "1413.txt"
             },
             {
                 "speaker": "劉大年",
                 "title": "中華經濟研究院區域發展研究中主任",
                 "profession": "經濟研究",
                 "youtubeLink": "",
-                "textFileName": "1414.txt",
-                "txt": ""
+                "content": "1414.txt"
             },
             {
                 "speaker": "謝明瑞",
                 "title": "空中大學商學系副教授",
                 "profession": "經濟研究",
                 "youtubeLink": "",
-                "textFileName": "1415.txt",
-                "txt": ""
+                "content": "1415.txt"
             },
             {
                 "speaker": "洪瑞璞",
                 "title": "黑色島國青年陣線",
                 "profession": "政治環保業",
                 "youtubeLink": "",
-                "textFileName": "1416.txt",
-                "txt": ""
+                "content": "1416.txt"
             },
             {
                 "speaker": "林名哲",
                 "title": "台灣電子電機資訊產業工秘書長",
                 "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1417.txt",
-                "txt": ""
+                "content": "1417.txt"
             },
             {
                 "speaker": "蕭景燈",
                 "title": "中研院資訊技術創新研究中研究技師",
                 "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1418.txt",
-                "txt": ""
+                "content": "1418.txt"
             },
             {
                 "speaker": "楊孝先",
                 "title": "推動網路中立性立法發起人",
                 "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1419.txt",
-                "txt": ""
+                "content": "1419.txt"
             },
             {
                 "speaker": "李禮仲",
                 "title": "世新大學法律系副教授",
                 "profession": "法律",
                 "youtubeLink": "",
-                "textFileName": "1420.txt",
-                "txt": ""
+                "content": "1420.txt"
             },
             {
                 "speaker": "游添富",
                 "title": "中租迪和股份有限公副總經理",
                 "profession": "租賃業",
                 "youtubeLink": "",
-                "textFileName": "1421.txt",
-                "txt": ""
+                "content": "1421.txt"
             },
             {
                 "speaker": "林逸民",
                 "title": "台北市租賃商業同業公總幹事",
                 "profession": "租賃業",
                 "youtubeLink": "",
-                "textFileName": "1422.txt",
-                "txt": ""
+                "content": "1422.txt"
             },
             {
                 "speaker": "歐陽弘",
                 "title": "東吳大學法律學院助理教授",
                 "profession": "法律",
                 "youtubeLink": "",
-                "textFileName": "1423.txt",
-                "txt": ""
+                "content": "1423.txt"
             },
             {
                 "speaker": "范錚強",
                 "title": "中央大學資訊管理學教授",
                 "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1424.txt",
-                "txt": ""
+                "content": "1424.txt"
             },
             {
                 "speaker": "王盈勛",
                 "title": "臺北藝術大學共同學助理教授",
                 "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1425.txt",
-                "txt": ""
+                "content": "1425.txt"
             },
             {
                 "speaker": "賴飛羆",
                 "title": "臺灣大學電機工程學教授",
                 "profession": "資訊工業",
                 "youtubeLink": "",
-                "textFileName": "1426.txt",
-                "txt": ""
+                "content": "1426.txt"
             },
             {
                 "speaker": "黃泰山",
                 "title": "臺灣貓狗人協會執行長",
                 "profession": "動保團體",
                 "youtubeLink": "",
-                "textFileName": "1427.txt",
-                "txt": ""
+                "content": "1427.txt"
             },
             {
                 "speaker": "第二輪發言",
                 "title": "",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1428.txt",
-                "txt": ""
+                "content": "1428.txt"
             }
         ],
         "index": "14"
     },
     {
-        "hearingName": "2013-11-21_「海峽兩岸服務貿易協議」第十ㄧ場加開公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第十ㄧ場加開公聽會",
+        "hearingProfession": [
+            "畜牧業",
+            "營建業",
+            "保險",
+            "殯儀館"
+        ],
         "date": "11/21/2013",
         "data": [
             {
@@ -2386,262 +2195,236 @@
                 "title": "黑色島國青年陣線",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1501.txt",
-                "txt": ""
+                "content": "1501.txt"
             },
             {
                 "speaker": "賴中強",
                 "title": "民主陣線召集人",
                 "profession": "整體產業",
                 "youtubeLink": "",
-                "textFileName": "1502.txt",
-                "txt": ""
+                "content": "1502.txt"
             },
             {
                 "speaker": "洪敬舒",
                 "title": "台灣勞工陣線主任",
                 "profession": "整體產業",
                 "youtubeLink": "",
-                "textFileName": "1503.txt",
-                "txt": ""
+                "content": "1503.txt"
             },
             {
                 "speaker": "沈華養",
                 "title": "臺灣區綜合營造業工程同業公會理事",
                 "profession": "營造業",
                 "youtubeLink": "",
-                "textFileName": "1504.txt",
-                "txt": ""
+                "content": "1504.txt"
             },
             {
                 "speaker": "吳明敏",
                 "title": "開南大學行銷學系榮譽講座教授",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1505.txt",
-                "txt": ""
+                "content": "1505.txt"
             },
             {
                 "speaker": "何啟聖",
                 "title": "龍巖股份有限公司公共事務處總經理",
                 "profession": "殯葬業",
                 "youtubeLink": "",
-                "textFileName": "1506.txt",
-                "txt": ""
+                "content": "1506.txt"
             },
             {
                 "speaker": "李訓民",
                 "title": "國家政策研究基金會憲政法制組顧問",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1507.txt",
-                "txt": ""
+                "content": "1507.txt"
             },
             {
                 "speaker": "鍾友全",
                 "title": "保險業代表",
                 "profession": "保險業",
                 "youtubeLink": "",
-                "textFileName": "1508.txt",
-                "txt": ""
+                "content": "1508.txt"
             },
             {
                 "speaker": "潘敏媛",
                 "title": "台北市保險業務職業工會理事長",
                 "profession": "保險業",
                 "youtubeLink": "",
-                "textFileName": "1509.txt",
-                "txt": ""
+                "content": "1509.txt"
             },
             {
                 "speaker": "蔡世忠",
                 "title": "建設公司業者",
                 "profession": "營造業",
                 "youtubeLink": "",
-                "textFileName": "1510.txt",
-                "txt": ""
+                "content": "1510.txt"
             },
             {
                 "speaker": "高為邦",
                 "title": "台商投資中國受害者協會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1511.txt",
-                "txt": ""
+                "content": "1511.txt"
             },
             {
                 "speaker": "蔡丁貴",
                 "title": "台灣大學教授",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1512.txt",
-                "txt": ""
+                "content": "1512.txt"
             },
             {
                 "speaker": "吳榮杰",
                 "title": "台灣大學農業經濟系暨研究所系主任教授",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1513.txt",
-                "txt": ""
+                "content": "1513.txt"
             },
             {
                 "speaker": "黃棟銘",
                 "title": "中華民國葬儀商業同業公會全國聯合會秘書長",
                 "profession": "殯葬業",
                 "youtubeLink": "",
-                "textFileName": "1514.txt",
-                "txt": ""
+                "content": "1514.txt"
             },
             {
                 "speaker": "簡文儀",
                 "title": "中華民國營造公會全國聯合會理事",
                 "profession": "營造業",
                 "youtubeLink": "",
-                "textFileName": "1515.txt",
-                "txt": ""
+                "content": "1515.txt"
             },
             {
                 "speaker": "黃新田",
                 "title": "翔懋開發公司總經理",
                 "profession": "營造業",
                 "youtubeLink": "",
-                "textFileName": "1516.txt",
-                "txt": ""
+                "content": "1516.txt"
             },
             {
                 "speaker": "鄒信南",
                 "title": "台灣區飼料工業同業公會總幹事",
                 "profession": "畜牧業",
                 "youtubeLink": "",
-                "textFileName": "1517.txt",
-                "txt": ""
+                "content": "1517.txt"
             },
             {
                 "speaker": "杜媽政",
                 "title": "前殯葬業者",
                 "profession": "殯葬業",
                 "youtubeLink": "",
-                "textFileName": "1518.txt",
-                "txt": ""
+                "content": "1518.txt"
             },
             {
                 "speaker": "戴英祥",
                 "title": "中華民國產物保險商業同業公會理事長",
                 "profession": "保險業",
                 "youtubeLink": "",
-                "textFileName": "1519.txt",
-                "txt": ""
+                "content": "1519.txt"
             },
             {
                 "speaker": "宋亞芬",
                 "title": "中華民國殯葬禮儀協會副祕書長",
                 "profession": "殯葬業",
                 "youtubeLink": "",
-                "textFileName": "1520.txt",
-                "txt": ""
+                "content": "1520.txt"
             },
             {
                 "speaker": "王清華",
                 "title": "萬安生命科技股份有限公司經理",
                 "profession": "殯葬業",
                 "youtubeLink": "",
-                "textFileName": "1521.txt",
-                "txt": ""
+                "content": "1521.txt"
             },
             {
                 "speaker": "廖克明",
                 "title": "瑞寶基因股份有限公司總經理",
                 "profession": "生技業",
                 "youtubeLink": "",
-                "textFileName": "1522.txt",
-                "txt": ""
+                "content": "1522.txt"
             },
             {
                 "speaker": "葉進華",
                 "title": "台灣鷹架同業自救會會長",
                 "profession": "營造業",
                 "youtubeLink": "",
-                "textFileName": "1523.txt",
-                "txt": ""
+                "content": "1523.txt"
             },
             {
                 "speaker": "張正忻",
                 "title": "世新大學口語傳播研究所研究生",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1524.txt",
-                "txt": ""
+                "content": "1524.txt"
             },
             {
                 "speaker": "胡和澤",
                 "title": "中華民國營造業總工會理事長",
                 "profession": "營造業",
                 "youtubeLink": "",
-                "textFileName": "1525.txt",
-                "txt": ""
+                "content": "1525.txt"
             },
             {
                 "speaker": "戴肇洋",
                 "title": "台灣綜合研究院研究員",
                 "profession": "整體產業",
                 "youtubeLink": "",
-                "textFileName": "1526.txt",
-                "txt": ""
+                "content": "1526.txt"
             },
             {
                 "speaker": "宋永義",
                 "title": "國立臺灣大學名譽教授教授",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1527.txt",
-                "txt": ""
+                "content": "1527.txt"
             },
             {
                 "speaker": "何啟聖",
                 "title": "龍巖股份有限公司總經理",
                 "profession": "殯葬業",
                 "youtubeLink": "",
-                "textFileName": "1528.txt",
-                "txt": ""
+                "content": "1528.txt"
             },
             {
                 "speaker": "高為邦",
                 "title": "台商投資中國受害者協會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1529.txt",
-                "txt": ""
+                "content": "1529.txt"
             },
             {
                 "speaker": "賴中強",
                 "title": "民主陣線召集人律師",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1530.txt",
-                "txt": ""
+                "content": "1530.txt"
             },
             {
                 "speaker": "洪敬舒",
                 "title": "台灣勞工陣線主任",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1531.txt",
-                "txt": ""
+                "content": "1531.txt"
             },
             {
                 "speaker": "第二輪發言",
                 "title": "",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1532.txt",
-                "txt": ""
+                "content": "1532.txt"
             }
         ],
         "index": "15"
     },
     {
-        "hearingName": "2013-12-05_「海峽兩岸服務貿易協議」第十二場加開公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第十二場加開公聽會",
+        "hearingProfession": [
+            "批發業",
+            "零售業",
+            "經銷權",
+            "糧食供應"
+        ],
         "date": "12/5/2013",
         "data": [
             {
@@ -2649,294 +2432,264 @@
                 "title": "黑色島國青年陣線",
                 "profession": "社會團體",
                 "youtubeLink": "",
-                "textFileName": "1601.txt",
-                "txt": ""
+                "content": "1601.txt"
             },
             {
                 "speaker": "徐重仁",
                 "title": "財團法人商業發展研究院董事長",
                 "profession": "零售業",
                 "youtubeLink": "",
-                "textFileName": "1602.txt",
-                "txt": ""
+                "content": "1602.txt"
             },
             {
                 "speaker": "張平沼",
                 "title": "中華民國全國商業總會理事長",
                 "profession": "自行車業",
                 "youtubeLink": "",
-                "textFileName": "1603.txt",
-                "txt": ""
+                "content": "1603.txt"
             },
             {
                 "speaker": "林震岩",
                 "title": "中原大學企業管理學系教授",
                 "profession": "學術界",
                 "youtubeLink": "",
-                "textFileName": "1604.txt",
-                "txt": ""
+                "content": "1604.txt"
             },
             {
                 "speaker": "戴中興",
                 "title": "台灣連鎖加盟促進協會秘書長",
                 "profession": "經銷權",
                 "youtubeLink": "",
-                "textFileName": "1605.txt",
-                "txt": ""
+                "content": "1605.txt"
             },
             {
                 "speaker": "許樹勳",
                 "title": "台灣帽子協會榮譽理事長",
                 "profession": "批發業",
                 "youtubeLink": "",
-                "textFileName": "1606.txt",
-                "txt": ""
+                "content": "1606.txt"
             },
             {
                 "speaker": "施劭偉",
                 "title": "欣葉國際餐飲股份有限公司執行長",
                 "profession": "餐飲業",
                 "youtubeLink": "",
-                "textFileName": "1607.txt",
-                "txt": ""
+                "content": "1607.txt"
             },
             {
                 "speaker": "洪枝樹",
                 "title": "台中市食品運送職業工會理事長",
                 "profession": "食品",
                 "youtubeLink": "",
-                "textFileName": "1608.txt",
-                "txt": ""
+                "content": "1608.txt"
             },
             {
                 "speaker": "劉崇喜",
                 "title": "大仁科技大學藥學系教授",
                 "profession": "醫藥業",
                 "youtubeLink": "",
-                "textFileName": "1609.txt",
-                "txt": ""
+                "content": "1609.txt"
             },
             {
                 "speaker": "陳吉仲",
                 "title": "中興大學應用經濟系教授",
                 "profession": "學術界",
                 "youtubeLink": "",
-                "textFileName": "1610.txt",
-                "txt": ""
+                "content": "1610.txt"
             },
             {
                 "speaker": "嚴婉玲",
                 "title": "民主陣線秘書",
                 "profession": "社會團體",
                 "youtubeLink": "",
-                "textFileName": "1611.txt",
-                "txt": ""
+                "content": "1611.txt"
             },
             {
                 "speaker": "張連祥",
                 "title": "台中市皮件產業科技發展協會理事長",
                 "profession": "製造袋包箱業",
                 "youtubeLink": "",
-                "textFileName": "1612.txt",
-                "txt": ""
+                "content": "1612.txt"
             },
             {
                 "speaker": "王文政",
                 "title": "無名子集團董事長",
                 "profession": "餐飲業",
                 "youtubeLink": "",
-                "textFileName": "1613.txt",
-                "txt": ""
+                "content": "1613.txt"
             },
             {
                 "speaker": "游德二",
                 "title": "台灣區陶瓷工業同業公會總幹事",
                 "profession": "陶瓷業",
                 "youtubeLink": "",
-                "textFileName": "1614.txt",
-                "txt": ""
+                "content": "1614.txt"
             },
             {
                 "speaker": "張啟毅",
                 "title": "台灣新興中小企業經營協會理事長",
                 "profession": "批發零售業",
                 "youtubeLink": "",
-                "textFileName": "1615.txt",
-                "txt": ""
+                "content": "1615.txt"
             },
             {
                 "speaker": "張順教",
                 "title": "台灣科技大學企業管理學系副教授",
                 "profession": "學術界",
                 "youtubeLink": "",
-                "textFileName": "1616.txt",
-                "txt": ""
+                "content": "1616.txt"
             },
             {
                 "speaker": "陳文彬",
                 "title": "桃園縣百貨商業同業公會理事長",
                 "profession": "百貨業",
                 "youtubeLink": "",
-                "textFileName": "1617.txt",
-                "txt": ""
+                "content": "1617.txt"
             },
             {
                 "speaker": "周清源",
                 "title": "雲林縣毛巾產業科技發展協會創會理事長",
                 "profession": "紡織業",
                 "youtubeLink": "",
-                "textFileName": "1618.txt",
-                "txt": ""
+                "content": "1618.txt"
             },
             {
                 "speaker": "焦鈞",
                 "title": "中華民國台灣區果菜市場發展促進會秘書",
                 "profession": "零售業",
                 "youtubeLink": "",
-                "textFileName": "1619.txt",
-                "txt": ""
+                "content": "1619.txt"
             },
             {
                 "speaker": "張正忻",
                 "title": "世新大學口語傳播研究所研究生",
                 "profession": "學術界",
                 "youtubeLink": "",
-                "textFileName": "1620.txt",
-                "txt": ""
+                "content": "1620.txt"
             },
             {
                 "speaker": "黃光藝",
                 "title": "臺灣製造業大聯盟總召集人",
                 "profession": "製造業",
                 "youtubeLink": "",
-                "textFileName": "1621.txt",
-                "txt": ""
+                "content": "1621.txt"
             },
             {
                 "speaker": "林冠瑜",
                 "title": "前連鎖傢俱店",
                 "profession": "零售業",
                 "youtubeLink": "",
-                "textFileName": "1622.txt",
-                "txt": ""
+                "content": "1622.txt"
             },
             {
                 "speaker": "陳曉雯",
                 "title": "社團法人台灣青年勞動九五聯盟理事長",
                 "profession": "社會團體",
                 "youtubeLink": "",
-                "textFileName": "1623.txt",
-                "txt": ""
+                "content": "1623.txt"
             },
             {
                 "speaker": "張寶鄰",
                 "title": "展圓國際股份有限公司董事長",
                 "profession": "餐飲業",
                 "youtubeLink": "",
-                "textFileName": "1624.txt",
-                "txt": ""
+                "content": "1624.txt"
             },
             {
                 "speaker": "葉信宏",
                 "title": "台中空廚總經理",
                 "profession": "餐飲業",
                 "youtubeLink": "",
-                "textFileName": "1625.txt",
-                "txt": ""
+                "content": "1625.txt"
             },
             {
                 "speaker": "廖修武",
                 "title": "政治大學國家發展研究所研究生",
                 "profession": "學術界",
                 "youtubeLink": "",
-                "textFileName": "1626.txt",
-                "txt": ""
+                "content": "1626.txt"
             },
             {
                 "speaker": "洪文和",
                 "title": "艋舺服飾商圈促進會會長",
                 "profession": "零售業",
                 "youtubeLink": "",
-                "textFileName": "1627.txt",
-                "txt": ""
+                "content": "1627.txt"
             },
             {
                 "speaker": "陳慶富",
                 "title": "臺北後站批發商圈發展促進會理事長",
                 "profession": "批發業",
                 "youtubeLink": "",
-                "textFileName": "1628.txt",
-                "txt": ""
+                "content": "1628.txt"
             },
             {
                 "speaker": "林向愷",
                 "title": "國立臺灣大學經濟系教授",
                 "profession": "學術界",
                 "youtubeLink": "",
-                "textFileName": "1629.txt",
-                "txt": ""
+                "content": "1629.txt"
             },
             {
                 "speaker": "黃淑純",
                 "title": "餐飲零售業者女士",
                 "profession": "零售業",
                 "youtubeLink": "",
-                "textFileName": "1630.txt",
-                "txt": ""
+                "content": "1630.txt"
             },
             {
                 "speaker": "林祖嘉",
                 "title": "陸委會副主任委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1631.txt",
-                "txt": ""
+                "content": "1631.txt"
             },
             {
                 "speaker": "卓士昭（含王石城）",
                 "title": "經濟部次長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1632.txt",
-                "txt": ""
+                "content": "1632.txt"
             },
             {
                 "speaker": "王政騰（含段宜康）",
                 "title": "農委會副主任委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1633.txt",
-                "txt": ""
+                "content": "1633.txt"
             },
             {
                 "speaker": "郝鳳鳴",
                 "title": "勞委會副主任委員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1634.txt",
-                "txt": ""
+                "content": "1634.txt"
             },
             {
                 "speaker": "高仙桂（含段宜康）",
                 "title": "經建會主任秘書",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1635.txt",
-                "txt": ""
+                "content": "1635.txt"
             },
             {
                 "speaker": "第二輪發言",
                 "title": "",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1636.txt",
-                "txt": ""
+                "content": "1636.txt"
             }
         ],
         "index": "16"
     },
     {
-        "hearingName": "2013-12-19_「海峽兩岸服務貿易協議」第十三場加開公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第十三場加開公聽會",
+        "hearingProfession": [
+            "廣告業",
+            "市場研究",
+            "複製服務",
+            "郵寄名單編輯"
+        ],
         "date": "12/19/2013",
         "data": [
             {
@@ -2944,254 +2697,229 @@
                 "title": "永樂商場自治會會長",
                 "profession": "批發業 零售業",
                 "youtubeLink": "https://www.youtube.com/watch?v=WiDK2f8lR4o",
-                "textFileName": "1701.txt",
-                "txt": ""
+                "content": "1701.txt"
             },
             {
                 "speaker": "劉敬文",
                 "title": "反媒體巨獸青年聯盟副召集人",
                 "profession": "廣告業",
                 "youtubeLink": "https://www.youtube.com/watch?v=7jeD2opJFWE",
-                "textFileName": "1702.txt",
-                "txt": ""
+                "content": "1702.txt"
             },
             {
                 "speaker": "林祖儀",
                 "title": "公民覺醒聯盟",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=6SBCrfit_Qs",
-                "textFileName": "1703.txt",
-                "txt": ""
+                "content": "1703.txt"
             },
             {
                 "speaker": "王孝成",
                 "title": "公民覺醒聯盟",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=IXY64FheDdQ",
-                "textFileName": "1704.txt",
-                "txt": ""
+                "content": "1704.txt"
             },
             {
                 "speaker": "蔡鴻賢",
                 "title": "東方線上股份有限公司執行長",
                 "profession": "市場研究 ",
                 "youtubeLink": "https://www.youtube.com/watch?v=HCEAKbUiZUI",
-                "textFileName": "1705.txt",
-                "txt": ""
+                "content": "1705.txt"
             },
             {
                 "speaker": "錢文南",
                 "title": "台北科技大學錢文南前教授",
                 "profession": "複製服務 郵寄名單編輯",
                 "youtubeLink": "https://www.youtube.com/watch?v=zVvfNVRhYhg",
-                "textFileName": "1706.txt",
-                "txt": ""
+                "content": "1706.txt"
             },
             {
                 "speaker": "陳欣之",
                 "title": "成功大學政治學系系主任",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=z85HpuM1CiU",
-                "textFileName": "1707.txt",
-                "txt": ""
+                "content": "1707.txt"
             },
             {
                 "speaker": "陳建成",
                 "title": "廣告設計業者",
                 "profession": "廣告業",
                 "youtubeLink": "https://www.youtube.com/watch?v=2JlVBYVLRkg",
-                "textFileName": "1708.txt",
-                "txt": ""
+                "content": "1708.txt"
             },
             {
                 "speaker": "陳嘉霖",
                 "title": "弘光科技大學通識學院講師",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=aUQ-3Q0aHa4",
-                "textFileName": "1709.txt",
-                "txt": ""
+                "content": "1709.txt"
             },
             {
                 "speaker": "謝中川",
                 "title": "雪芃設計顧問有限公司執行長",
                 "profession": "廣告業",
                 "youtubeLink": "https://www.youtube.com/watch?v=LUcLLpIzN0g",
-                "textFileName": "1710.txt",
-                "txt": ""
+                "content": "1710.txt"
             },
             {
                 "speaker": "朱浩",
                 "title": "財團法人商業發展研究院副所長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=2YcXzolRfyg",
-                "textFileName": "1711.txt",
-                "txt": ""
+                "content": "1711.txt"
             },
             {
                 "speaker": "洪瑞璞",
                 "title": "黑色島國青年陣線",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=p_JKyIzZxno",
-                "textFileName": "1712.txt",
-                "txt": ""
+                "content": "1712.txt"
             },
             {
                 "speaker": "張啟毅",
                 "title": "台灣新興中小企業經營協會理事長",
                 "profession": "郵寄名單編輯",
                 "youtubeLink": "https://www.youtube.com/watch?v=iyxfXni5pU8",
-                "textFileName": "1713.txt",
-                "txt": ""
+                "content": "1713.txt"
             },
             {
                 "speaker": "劉靜怡",
                 "title": "台灣大學國家發展研究所教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=JzTFlUdXHs4",
-                "textFileName": "1714.txt",
-                "txt": ""
+                "content": "1714.txt"
             },
             {
                 "speaker": "黎榮章",
                 "title": "艾博司網路口碑研究中心負責人",
                 "profession": "市場研究",
                 "youtubeLink": "https://www.youtube.com/watch?v=ACa6JSumb5c",
-                "textFileName": "1715.txt",
-                "txt": ""
+                "content": "1715.txt"
             },
             {
                 "speaker": "洪耀南",
                 "title": "未來事件交易所執行長",
                 "profession": "市場研究",
                 "youtubeLink": "https://www.youtube.com/watch?v=8aFxPAfaLqk",
-                "textFileName": "1716.txt",
-                "txt": ""
+                "content": "1716.txt"
             },
             {
                 "speaker": "劉樹聰",
                 "title": "微型企業業者先生",
                 "profession": "批發業 零售業",
                 "youtubeLink": "https://www.youtube.com/watch?v=43yiO0uLg_M",
-                "textFileName": "1717.txt",
-                "txt": ""
+                "content": "1717.txt"
             },
             {
                 "speaker": "蕭富峰",
                 "title": "輔仁大學廣告傳播學系系主任",
                 "profession": "廣告業",
                 "youtubeLink": "https://www.youtube.com/watch?v=4TLlwzHZCf0",
-                "textFileName": "1718.txt",
-                "txt": ""
+                "content": "1718.txt"
             },
             {
                 "speaker": "謝德謙",
                 "title": "靜宜大學資訊傳播工程學系講師",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=aFaJk3OFF1Y",
-                "textFileName": "1719.txt",
-                "txt": ""
+                "content": "1719.txt"
             },
             {
                 "speaker": "柳茹薰",
                 "title": "政治大學廣告學系畢業生",
                 "profession": "廣告業",
                 "youtubeLink": "https://www.youtube.com/watch?v=DPMPOhEdKFs",
-                "textFileName": "1720.txt",
-                "txt": ""
+                "content": "1720.txt"
             },
             {
                 "speaker": "徐偉群",
                 "title": "中原大學法學院副教授",
                 "profession": "廣告業 郵寄名單編輯",
                 "youtubeLink": "https://www.youtube.com/watch?v=FNgz379FulI",
-                "textFileName": "1721.txt",
-                "txt": ""
+                "content": "1721.txt"
             },
             {
                 "speaker": "白崇亮（含段宜康）",
                 "title": "台灣奧美整合行銷傳播集團董事長",
                 "profession": "廣告業",
                 "youtubeLink": "https://www.youtube.com/watch?v=ZsdPRAayg28",
-                "textFileName": "1722.txt",
-                "txt": ""
+                "content": "1722.txt"
             },
             {
                 "speaker": "劉彥澧",
                 "title": "東吳大學企業管理學系研究生",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=TDpHo9MiNso",
-                "textFileName": "1723.txt",
-                "txt": ""
+                "content": "1723.txt"
             },
             {
                 "speaker": "蘇建州",
                 "title": "世新大學傳播管理學系教授",
                 "profession": "廣告業",
                 "youtubeLink": "https://www.youtube.com/watch?v=SNlNFdVryxA",
-                "textFileName": "1724.txt",
-                "txt": ""
+                "content": "1724.txt"
             },
             {
                 "speaker": "賴中強（含段宜康）",
                 "title": "民主陣線賴召集人",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=CaDKGVwE8d0",
-                "textFileName": "1725.txt",
-                "txt": ""
+                "content": "1725.txt"
             },
             {
                 "speaker": "涂國評",
                 "title": "臺北市影印商業同業公會理事長",
                 "profession": "複製服務",
                 "youtubeLink": "https://www.youtube.com/watch?v=H_JK6OD6f2w",
-                "textFileName": "1726.txt",
-                "txt": ""
+                "content": "1726.txt"
             },
             {
                 "speaker": "簡國書",
                 "title": "大數溝通有限公司負責人",
                 "profession": "廣告業",
                 "youtubeLink": "https://www.youtube.com/watch?v=8iZ1LVIDMvM",
-                "textFileName": "1727.txt",
-                "txt": ""
+                "content": "1727.txt"
             },
             {
                 "speaker": "邱垂正",
                 "title": "金門大學國際暨大陸事務學系助理教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=NGAgo-xGN4Y",
-                "textFileName": "1728.txt",
-                "txt": ""
+                "content": "1728.txt"
             },
             {
                 "speaker": "王孝成",
                 "title": "公民覺醒聯盟",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=XnqAzZSZzc8",
-                "textFileName": "1729.txt",
-                "txt": ""
+                "content": "1729.txt"
             },
             {
                 "speaker": "賴中強(含陳秘順)",
                 "title": "民主陣線賴中強召集人",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=eb7i4miKmFw",
-                "textFileName": "1730.txt",
-                "txt": ""
+                "content": "1730.txt"
             },
             {
                 "speaker": "第二輪發言",
                 "title": "",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1731.txt",
-                "txt": ""
+                "content": "1731.txt"
             }
         ],
         "index": "17"
     },
     {
-        "hearingName": "2014-01-02_「海峽兩岸服務貿易協議」第十四場加開公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第十四場加開公聽會",
+        "hearingProfession": [
+            "攝影業",
+            "包裝服務",
+            "印刷相關服務",
+            "展覽會"
+        ],
         "date": "1/2/2014",
         "data": [
             {
@@ -3199,294 +2927,263 @@
                 "title": "公民覺醒聯盟",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=1Ut_sn52OCc",
-                "textFileName": "1801.txt",
-                "txt": ""
+                "content": "1801.txt"
             },
             {
                 "speaker": "黃國昌",
                 "title": "中央研究院法律學研究所教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=Lbr4Id6ksIw",
-                "textFileName": "1802.txt",
-                "txt": ""
+                "content": "1802.txt"
             },
             {
                 "speaker": "賴中強",
                 "title": "民主陣線召集人",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=sUAQp2Btt2g",
-                "textFileName": "1803.txt",
-                "txt": ""
+                "content": "1803.txt"
             },
             {
                 "speaker": "賴品妤",
                 "title": "黑色島國青年陣線",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=liycaiWaGBo",
-                "textFileName": "1804.txt",
-                "txt": ""
+                "content": "1804.txt"
             },
             {
                 "speaker": "洪美華",
                 "title": "新自然主義出版社社長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=Xb2fIRTdV6s",
-                "textFileName": "1805.txt",
-                "txt": ""
+                "content": "1805.txt"
             },
             {
                 "speaker": "閻鴻亞",
                 "title": "導演",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=0COD2NPX0T8",
-                "textFileName": "1806.txt",
-                "txt": ""
+                "content": "1806.txt"
             },
             {
                 "speaker": "朱浩",
                 "title": "商業發展研究院副所長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=6DzVdZ3bpq4",
-                "textFileName": "1807.txt",
-                "txt": ""
+                "content": "1807.txt"
             },
             {
                 "speaker": "黃義盛",
                 "title": "中華印刷科技學會名譽理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=1LZpDZuBu-U",
-                "textFileName": "1808.txt",
-                "txt": ""
+                "content": "1808.txt"
             },
             {
                 "speaker": "周馥儀",
                 "title": "賴和基金會執行長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=xAzIFYZqWEo",
-                "textFileName": "1809.txt",
-                "txt": ""
+                "content": "1809.txt"
             },
             {
                 "speaker": "蔣為文",
                 "title": "國立成功大學臺灣文學系教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=aF3f4Mbp8jc",
-                "textFileName": "1810.txt",
-                "txt": ""
+                "content": "1810.txt"
             },
             {
                 "speaker": "劉虹風",
                 "title": "小小書房",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=9SkEy2cm81g",
-                "textFileName": "1811.txt",
-                "txt": ""
+                "content": "1811.txt"
             },
             {
                 "speaker": "張天立",
                 "title": "讀冊生活網路書店創辦人",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=0eDkdwAzB78",
-                "textFileName": "1812.txt",
-                "txt": ""
+                "content": "1812.txt"
             },
             {
                 "speaker": "楊克齊",
                 "title": "新北市出版商業同業公會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=aa3aT3Sb6dk",
-                "textFileName": "1813.txt",
-                "txt": ""
+                "content": "1813.txt"
             },
             {
                 "speaker": "陳慶文",
                 "title": "中華民國圖書發行協進會秘書長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=pL8rw8WRcFU",
-                "textFileName": "1814.txt",
-                "txt": ""
+                "content": "1814.txt"
             },
             {
                 "speaker": "宋政坤",
                 "title": "中華民國出版商業同業公會全國聯合會秘書長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=27HdcCYwpeA",
-                "textFileName": "1815.txt",
-                "txt": ""
+                "content": "1815.txt"
             },
             {
                 "speaker": "段宜康",
                 "title": "會議主席",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=lwxbc8EJqow",
-                "textFileName": "1816.txt",
-                "txt": ""
+                "content": "1816.txt"
             },
             {
                 "speaker": "陳本源",
                 "title": "中華民國出版協會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=usEfIamUi28",
-                "textFileName": "1817.txt",
-                "txt": ""
+                "content": "1817.txt"
             },
             {
                 "speaker": "王祿旺",
                 "title": "中國印刷學會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=bTH2i9fjUrM",
-                "textFileName": "1818.txt",
-                "txt": ""
+                "content": "1818.txt"
             },
             {
                 "speaker": "陳政雄",
                 "title": "興台彩色印刷股份有限公司總經理",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=pEIr9RNUQ70",
-                "textFileName": "1819.txt",
-                "txt": ""
+                "content": "1819.txt"
             },
             {
                 "speaker": "游文相",
                 "title": "臺灣全球運籌發展協會理事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=J8hHhX-L78M",
-                "textFileName": "1820.txt",
-                "txt": ""
+                "content": "1820.txt"
             },
             {
                 "speaker": "蔡月桃",
                 "title": "榮星紙業股份有限公司董事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=bI7Du2DuzvM",
-                "textFileName": "1821.txt",
-                "txt": ""
+                "content": "1821.txt"
             },
             {
                 "speaker": "杜媽政",
                 "title": "展覽服務業老闆",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=Mh-BTUj_pVE",
-                "textFileName": "1822.txt",
-                "txt": ""
+                "content": "1822.txt"
             },
             {
                 "speaker": "馮光遠",
                 "title": "作家",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=c1OSOfYEvpE",
-                "textFileName": "1823.txt",
-                "txt": ""
+                "content": "1823.txt"
             },
             {
                 "speaker": "廖修武",
                 "title": "國立政治大學國家發展研究所研究生",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=u6Ft-0Bu8SI",
-                "textFileName": "1824.txt",
-                "txt": ""
+                "content": "1824.txt"
             },
             {
                 "speaker": "張錦華",
                 "title": "國立台灣大學新聞研究所教授",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=fBAW6bq2FfE",
-                "textFileName": "1825.txt",
-                "txt": ""
+                "content": "1825.txt"
             },
             {
                 "speaker": "何浤銘",
                 "title": "La Fee漂亮婚禮國際有限公司總經理",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=GbIBeuiuJf0",
-                "textFileName": "1826.txt",
-                "txt": ""
+                "content": "1826.txt"
             },
             {
                 "speaker": "陳昌輝",
                 "title": "包裝業者",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=W2E7vgL2I30",
-                "textFileName": "1827.txt",
-                "txt": ""
+                "content": "1827.txt"
             },
             {
                 "speaker": "鄭秀玲",
                 "title": "國立台灣大學經濟系系主任",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=dKmJEMrkzjQ",
-                "textFileName": "1828.txt",
-                "txt": ""
+                "content": "1828.txt"
             },
             {
                 "speaker": "魏淑貞",
                 "title": "玉山社出版公司總編輯",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=f44UtoVpfJw",
-                "textFileName": "1829.txt",
-                "txt": ""
+                "content": "1829.txt"
             },
             {
                 "speaker": "王郁琦",
                 "title": "陸委會主任委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=J2hiqqwZtPU",
-                "textFileName": "1830.txt",
-                "txt": ""
+                "content": "1830.txt"
             },
             {
                 "speaker": "林中森",
                 "title": "海基會董事長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=uz3R5eq5klo",
-                "textFileName": "1831.txt",
-                "txt": ""
+                "content": "1831.txt"
             },
             {
                 "speaker": "卓士昭",
                 "title": "經濟部次長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=8ulaxqWG-oE",
-                "textFileName": "1832.txt",
-                "txt": ""
+                "content": "1832.txt"
             },
             {
                 "speaker": "李應平",
                 "title": "文化部次長",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=fSKD-0DK3Hw",
-                "textFileName": "1833.txt",
-                "txt": ""
+                "content": "1833.txt"
             },
             {
                 "speaker": "郝鳳鳴",
                 "title": "勞委會副主任委員",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=X6h-ITbQOCU",
-                "textFileName": "1834.txt",
-                "txt": ""
+                "content": "1834.txt"
             },
             {
                 "speaker": "第二輪發言",
                 "title": "",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=dY7bEHq1fLc",
-                "textFileName": "1835.txt",
-                "txt": ""
+                "content": "1835.txt"
             },
             {
                 "speaker": "第三輪發言",
                 "title": "",
                 "profession": "",
                 "youtubeLink": "https://www.youtube.com/watch?v=VWz_Yp37oDs",
-                "textFileName": "1836.txt",
-                "txt": ""
+                "content": "1836.txt"
             }
         ],
         "index": "18"
     },
     {
-        "hearingName": "2014-01-13_「海峽兩岸服務貿易協議」第十五場加開公聽會",
+        "hearingName": "「海峽兩岸服務貿易協議」第十五場加開公聽會",
+        "hearingProfession": [
+            "技術檢測與分析",
+            "建築物清理",
+            "環境服務"
+        ],
         "date": "1/13/2014",
         "data": [
             {
@@ -3494,296 +3191,259 @@
                 "title": "中國文化大學中山與中國大陸研究所教授",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1901.txt",
-                "txt": ""
+                "content": "1901.txt"
             },
             {
                 "speaker": "孫友聯",
                 "title": "台灣勞工陣線秘書長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1902.txt",
-                "txt": ""
+                "content": "1902.txt"
             },
             {
                 "speaker": "江誠榮",
                 "title": "臺灣土壤及地下水產業策略聯盟主席",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1903.txt",
-                "txt": ""
+                "content": "1903.txt"
             },
             {
                 "speaker": "王孝成",
                 "title": "公民覺醒聯盟",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1904.txt",
-                "txt": ""
+                "content": "1904.txt"
             },
             {
                 "speaker": "黃國昌",
                 "title": "中央研究院法律學研究所副研究員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1905.txt",
-                "txt": ""
+                "content": "1905.txt"
             },
             {
                 "speaker": "張壽壜",
                 "title": "中華民國環境檢驗測定商業同業公會常務監事",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1906.txt",
-                "txt": ""
+                "content": "1906.txt"
             },
             {
                 "speaker": "張簡良國",
                 "title": "新北市營建廢棄物回收再利用協會總幹事",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1907.txt",
-                "txt": ""
+                "content": "1907.txt"
             },
             {
                 "speaker": "歐陽弘",
                 "title": "東吳大學法學院助理教授",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1908.txt",
-                "txt": ""
+                "content": "1908.txt"
             },
             {
                 "speaker": "魏明德",
                 "title": "清潔業代表督導",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1909.txt",
-                "txt": ""
+                "content": "1909.txt"
             },
             {
                 "speaker": "李淳",
                 "title": "中華經濟研究院WTO及RTA中心副執行長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1910.txt",
-                "txt": ""
+                "content": "1910.txt"
             },
             {
                 "speaker": "徐光蓉",
                 "title": "台灣環保聯盟召集人",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1911.txt",
-                "txt": ""
+                "content": "1911.txt"
             },
             {
                 "speaker": "吳瑞碧教授發言",
                 "title": "臺灣大學食品科技研究所教授",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1912.txt",
-                "txt": ""
+                "content": "1912.txt"
             },
             {
                 "speaker": "顧卓群",
                 "title": "新高清潔服務股份有限公司董事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1913.txt",
-                "txt": ""
+                "content": "1913.txt"
             },
             {
                 "speaker": "吳榮發",
                 "title": "中華民國清潔服務商業同業公會全國聯合會名譽理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1914.txt",
-                "txt": ""
+                "content": "1914.txt"
             },
             {
                 "speaker": "孔祥瑄",
                 "title": "黑色島國青年陣線",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1915.txt",
-                "txt": ""
+                "content": "1915.txt"
             },
             {
                 "speaker": "謝和霖",
                 "title": "看守台灣協會秘書長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1916.txt",
-                "txt": ""
+                "content": "1916.txt"
             },
             {
                 "speaker": "林嘉信",
                 "title": "中華民國廢棄物清除處理商業同業公會全國聯合會秘書長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1917.txt",
-                "txt": ""
+                "content": "1917.txt"
             },
             {
                 "speaker": "謝德謙",
                 "title": "靜宜大學資訊傳播工程學系講師",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1918.txt",
-                "txt": ""
+                "content": "1918.txt"
             },
             {
                 "speaker": "嚴婉玲",
                 "title": "民主陣線秘書",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1919.txt",
-                "txt": ""
+                "content": "1919.txt"
             },
             {
                 "speaker": "錢文南",
                 "title": "台北科技大學教授",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1920.txt",
-                "txt": ""
+                "content": "1920.txt"
             },
             {
                 "speaker": "賴中強",
                 "title": "民主陣線召集人",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1921.txt",
-                "txt": ""
+                "content": "1921.txt"
             },
             {
                 "speaker": "賴偉傑",
                 "title": "台灣綠色公民行動聯盟協會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1922.txt",
-                "txt": ""
+                "content": "1922.txt"
             },
             {
                 "speaker": "游德二",
                 "title": "台灣陶瓷工業同業公會總幹事",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1923.txt",
-                "txt": ""
+                "content": "1923.txt"
             },
             {
                 "speaker": "黃啟川",
                 "title": "中華民國檢測驗證協會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1924.txt",
-                "txt": ""
+                "content": "1924.txt"
             },
             {
                 "speaker": "黃文芳",
                 "title": "台灣區車輛工業同業公會處長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1925.txt",
-                "txt": ""
+                "content": "1925.txt"
             },
             {
                 "speaker": "高基讚",
                 "title": "台中市議會議員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1926.txt",
-                "txt": ""
+                "content": "1926.txt"
             },
             {
                 "speaker": "蔡宏明",
                 "title": "中華民國全國工業總會副秘書長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1927.txt",
-                "txt": ""
+                "content": "1927.txt"
             },
             {
                 "speaker": "蔣萬金",
                 "title": "台北市產業總工會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1928.txt",
-                "txt": ""
+                "content": "1928.txt"
             },
             {
                 "speaker": "高為邦",
                 "title": "投資中國受害者協會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1929.txt",
-                "txt": ""
+                "content": "1929.txt"
             },
             {
                 "speaker": "龐建國",
                 "title": "文化大學中山與中國大陸研究所教授",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1930.txt",
-                "txt": ""
+                "content": "1930.txt"
             },
             {
                 "speaker": "黃國昌",
                 "title": "中央研究院法律學研究所副研究員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1931.txt",
-                "txt": ""
+                "content": "1931.txt"
             },
             {
                 "speaker": "張壽壜",
                 "title": "中華民國環境檢驗測定商業同業公會常務監事",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1932.txt",
-                "txt": ""
+                "content": "1932.txt"
             },
             {
                 "speaker": "謝和霖",
                 "title": "看守台灣協會秘書長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1933.txt",
-                "txt": ""
+                "content": "1933.txt"
             },
             {
                 "speaker": "嚴婉玲",
                 "title": "民主陣線秘書",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1934.txt",
-                "txt": ""
+                "content": "1934.txt"
             },
             {
                 "speaker": "賴中強",
                 "title": "民主陣線召集人",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1935.txt",
-                "txt": ""
+                "content": "1935.txt"
             },
             {
                 "speaker": "賴偉傑",
                 "title": "台灣綠色公民行動聯盟協會理事長",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1936.txt",
-                "txt": ""
+                "content": "1936.txt"
             },
             {
                 "speaker": "高基讚",
                 "title": "台中市議會議員",
                 "profession": "",
                 "youtubeLink": "",
-                "textFileName": "1937.txt",
-                "txt": ""
+                "content": "1937.txt"
             }
         ],
         "index": "19"
