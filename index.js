@@ -6,10 +6,6 @@ var app = express();
 
 var v = '1.0';
 
-// console.log(PHData);
-
-// var PHJson = JSON.parse(PHData);
-
 for (var i = PHJson.length - 1; i >= 0; i--) {
     for (var j = PHJson[i].data.length - 1; j >= 0; j--) {
         var fileName = PHJson[i].data[j].content;
@@ -28,7 +24,20 @@ app.all('/*', function (req, res, next) {
 });
 
 app.get('/api/' + v + '/all', function (req, res) {
-    res.send(PHJson);
+    var showData = PHJson;
+    for (var key in req.query){
+        showData = PHJson.filter(function(entry){
+            var tmpEntry = entry[key];
+            if (Object.prototype.toString.apply(tmpEntry) === '[object Array]') {
+                return tmpEntry.indexOf(req.query[key]) >= 0;
+            }
+            else {
+                return entry[key] == req.query[key];
+            }
+        });
+    }
+
+    res.send(showData);
 });
 
 var port = Number(process.env.PORT || 5000);
