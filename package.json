@@ -1,7 +1,7 @@
 {
     "name"       : "LetsFuMouAPI",
     "description": "The FuMou Public Hearing's Data API",
-    "version"    : "0.0.1",
+    "version"    : "0.0.2",
     "contributor": [
         {
             "name" : "Lee",
